@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: c626108e85150c543a0ea7229e870f7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5213084065691663570
+    second: last 2 games-05_0
+  - first:
+      213: -1971602249872622240
+    second: last 2 games-05_1
+  - first:
+      213: -2391466639067100400
+    second: last 2 games-05_2
+  - first:
+      213: -6002963145081053718
+    second: last 2 games-05_3
+  - first:
+      213: 110725770260876763
+    second: last 2 games-05_4
+  - first:
+      213: -6109709485680127953
+    second: last 2 games-05_5
+  - first:
+      213: -229609688196217561
+    second: last 2 games-05_6
+  - first:
+      213: -5266542087181738137
+    second: last 2 games-05_7
+  - first:
+      213: 6164633230424643568
+    second: last 2 games-05_8
+  - first:
+      213: -2457556179835857951
+    second: last 2 games-05_9
+  - first:
+      213: 9172084672732392628
+    second: last 2 games-05_10
+  - first:
+      213: -2781915519208670139
+    second: last 2 games-05_14
+  - first:
+      213: 8112467668291816535
+    second: last 2 games-05_15
+  - first:
+      213: -8883413280319423231
+    second: last 2 games-05_19
+  - first:
+      213: 6614778373516196019
+    second: last 2 games-05_20
+  - first:
+      213: 541601387804808124
+    second: last 2 games-05_25
+  - first:
+      213: -3906971063299575141
+    second: last 2 games-05_26
+  - first:
+      213: 5025226064946767216
+    second: last 2 games-05_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: last 2 games-05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 415
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcfccf6658985840800000000000000
+      internalID: 5213084065691663570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1795
+        width: 1058
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d3bf1233673a4e0800000000000000
+      internalID: -1971602249872622240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_2
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1801
+        width: 810
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b453623cdcfced0800000000000000
+      internalID: -2391466639067100400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1679
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9ea913d031bca0800000000000000
+      internalID: -6002963145081053718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_4
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1658
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd81eb5080698100800000000000000
+      internalID: 110725770260876763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1173
+        width: 419
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209339e793f53ba0800000000000000
+      internalID: -6109709485680127953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_6
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1126
+        width: 376
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258312843340dcf0800000000000000
+      internalID: -229609688196217561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_7
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1140
+        width: 490
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f53e200eb79e6b0800000000000000
+      internalID: -5266542087181738137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1077
+        width: 221
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7970ee24d2d8550800000000000000
+      internalID: 6164633230424643568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1132
+        width: 518
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e35155dca105edd0800000000000000
+      internalID: -2457556179835857951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_10
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1647
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce4000a6ac94f70800000000000000
+      internalID: 9172084672732392628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_14
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 471
+        width: 461
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cbb621396a469d0800000000000000
+      internalID: -2781915519208670139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_15
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 560
+        width: 472
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c0064dc56459070800000000000000
+      internalID: 8112467668291816535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 506
+        width: 575
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10db29910b6c7b480800000000000000
+      internalID: -8883413280319423231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_20
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 520
+        width: 325
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b87e5552e96ccb50800000000000000
+      internalID: 6614778373516196019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_25
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 511
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d6f9b797248700800000000000000
+      internalID: 541601387804808124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_26
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 36
+        width: 509
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927c489486a7c9c0800000000000000
+      internalID: -3906971063299575141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: last 2 games-05_28
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 77
+        width: 547
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075af253b703db540800000000000000
+      internalID: 5025226064946767216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

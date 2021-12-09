@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 6b098aabacb88c5448a85b90b5023da1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -943329740978776776
+    second: Animal Sounds 1 sprite_0
+  - first:
+      213: -1850678232419239715
+    second: Animal Sounds 1 sprite_1
+  - first:
+      213: -3104354133894275017
+    second: Animal Sounds 1 sprite_2
+  - first:
+      213: 8548616497373452626
+    second: Animal Sounds 1 sprite_3
+  - first:
+      213: 1844495920302010519
+    second: Animal Sounds 1 sprite_4
+  - first:
+      213: -4667431488937874035
+    second: Animal Sounds 1 sprite_5
+  - first:
+      213: -6106164679065896006
+    second: Animal Sounds 1 sprite_6
+  - first:
+      213: -5769279073905548747
+    second: Animal Sounds 1 sprite_7
+  - first:
+      213: 3480696430877346057
+    second: Animal Sounds 1 sprite_8
+  - first:
+      213: -7268635261334776118
+    second: Animal Sounds 1 sprite_9
+  - first:
+      213: 5190225109261679927
+    second: Animal Sounds 1 sprite_10
+  - first:
+      213: 8151430526826516797
+    second: Animal Sounds 1 sprite_11
+  - first:
+      213: -8936382910078945530
+    second: Animal Sounds 1 sprite_12
+  - first:
+      213: -2659826848150039783
+    second: Animal Sounds 1 sprite_13
+  - first:
+      213: 3237234910809152677
+    second: Animal Sounds 1 sprite_14
+  - first:
+      213: -4397627294729555285
+    second: Animal Sounds 1 sprite_15
+  - first:
+      213: -3882062932024432898
+    second: Animal Sounds 1 sprite_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1768
+        width: 675
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83516ea399e98e2f0800000000000000
+      internalID: -943329740978776776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_1
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2639
+        width: 633
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd87a13f3f11156e0800000000000000
+      internalID: -1850678232419239715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_2
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 2664
+        width: 918
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7306730ec5e1be4d0800000000000000
+      internalID: -3104354133894275017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_3
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 2677
+        width: 1496
+        height: 1144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2591dfe6969c2a670800000000000000
+      internalID: 8548616497373452626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_4
+      rect:
+        serializedVersion: 2
+        x: 5171
+        y: 2677
+        width: 1445
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79032475447f89910800000000000000
+      internalID: 1844495920302010519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_5
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 2715
+        width: 1741
+        height: 858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da2683ac3f93fb0800000000000000
+      internalID: -4667431488937874035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1484
+        width: 1478
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb7d34839b824ba0800000000000000
+      internalID: -6106164679065896006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 1327
+        width: 866
+        height: 1252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532e3cdcf376fefa0800000000000000
+      internalID: -5769279073905548747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_8
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 1348
+        width: 955
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090a6d56faed4030800000000000000
+      internalID: 3480696430877346057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_9
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 1365
+        width: 845
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6134e9dbe902b90800000000000000
+      internalID: -7268635261334776118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_10
+      rect:
+        serializedVersion: 2
+        x: 7363
+        y: 1403
+        width: 990
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dfad5ec32670840800000000000000
+      internalID: 5190225109261679927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 1068
+        height: 1168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3115c240e2bf1170800000000000000
+      internalID: 8151430526826516797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 1538
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6077fdb17179bf380800000000000000
+      internalID: -8936382910078945530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_13
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 0
+        width: 1215
+        height: 1182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91358ffe295661bd0800000000000000
+      internalID: -2659826848150039783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_14
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 53
+        width: 1168
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd541fff7fcec20800000000000000
+      internalID: 3237234910809152677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_15
+      rect:
+        serializedVersion: 2
+        x: 5983
+        y: 36
+        width: 1342
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2351b664d78f2c0800000000000000
+      internalID: -4397627294729555285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animal Sounds 1 sprite_16
+      rect:
+        serializedVersion: 2
+        x: 7669
+        y: 87
+        width: 1030
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e8f4d454202ac0800000000000000
+      internalID: -3882062932024432898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

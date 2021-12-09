@@ -1,0 +1,2448 @@
+fileFormatVersion: 2
+guid: 58d9b817d8eba684c863ef41b4a9254f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5151851596954106366
+    second: first 2 games sprite-02_0
+  - first:
+      213: -2472310990384026605
+    second: first 2 games sprite-02_1
+  - first:
+      213: -8076024913612177799
+    second: first 2 games sprite-02_2
+  - first:
+      213: 5776962396767913400
+    second: first 2 games sprite-02_3
+  - first:
+      213: -6913395337737389909
+    second: first 2 games sprite-02_4
+  - first:
+      213: 3411332663293856437
+    second: first 2 games sprite-02_5
+  - first:
+      213: 550528913650995596
+    second: first 2 games sprite-02_6
+  - first:
+      213: -3356867297480663583
+    second: first 2 games sprite-02_7
+  - first:
+      213: -4080868891112252625
+    second: first 2 games sprite-02_8
+  - first:
+      213: 2999489578298310403
+    second: first 2 games sprite-02_9
+  - first:
+      213: 447859439942519246
+    second: first 2 games sprite-02_10
+  - first:
+      213: 5642634959933038588
+    second: first 2 games sprite-02_11
+  - first:
+      213: -8577829577227690291
+    second: first 2 games sprite-02_12
+  - first:
+      213: 8365078927522850692
+    second: first 2 games sprite-02_13
+  - first:
+      213: 5537533259529849441
+    second: first 2 games sprite-02_14
+  - first:
+      213: -1785358503971253142
+    second: first 2 games sprite-02_15
+  - first:
+      213: 8564397636392084439
+    second: first 2 games sprite-02_16
+  - first:
+      213: 8826858060476266357
+    second: first 2 games sprite-02_17
+  - first:
+      213: -516387268945189935
+    second: first 2 games sprite-02_18
+  - first:
+      213: -3720512631288195263
+    second: first 2 games sprite-02_19
+  - first:
+      213: 8788070727034195203
+    second: first 2 games sprite-02_20
+  - first:
+      213: -1161237887772715474
+    second: first 2 games sprite-02_21
+  - first:
+      213: -1609389941577198648
+    second: first 2 games sprite-02_22
+  - first:
+      213: -1620662123954969480
+    second: first 2 games sprite-02_23
+  - first:
+      213: 6105910948236597729
+    second: first 2 games sprite-02_24
+  - first:
+      213: 9057134979545139878
+    second: first 2 games sprite-02_25
+  - first:
+      213: 7892988350917460700
+    second: first 2 games sprite-02_26
+  - first:
+      213: 3665737815512820778
+    second: first 2 games sprite-02_27
+  - first:
+      213: 9175942582153764904
+    second: first 2 games sprite-02_28
+  - first:
+      213: 6435998866800411413
+    second: first 2 games sprite-02_29
+  - first:
+      213: 8934998611530081754
+    second: first 2 games sprite-02_30
+  - first:
+      213: 4158999757478219332
+    second: first 2 games sprite-02_31
+  - first:
+      213: 4414844066378146689
+    second: first 2 games sprite-02_32
+  - first:
+      213: 6914900488683517870
+    second: first 2 games sprite-02_33
+  - first:
+      213: -7957110417674332701
+    second: first 2 games sprite-02_34
+  - first:
+      213: -2711225333525482780
+    second: first 2 games sprite-02_35
+  - first:
+      213: 4450405744272278782
+    second: first 2 games sprite-02_36
+  - first:
+      213: -6373135780114058136
+    second: first 2 games sprite-02_37
+  - first:
+      213: 1846263884696149230
+    second: first 2 games sprite-02_38
+  - first:
+      213: -8103385610343946598
+    second: first 2 games sprite-02_39
+  - first:
+      213: -9041678984010164085
+    second: first 2 games sprite-02_40
+  - first:
+      213: 5456182834185599860
+    second: first 2 games sprite-02_41
+  - first:
+      213: -2846776607909279649
+    second: first 2 games sprite-02_42
+  - first:
+      213: 9174262294392091013
+    second: first 2 games sprite-02_43
+  - first:
+      213: 2248405254212929212
+    second: first 2 games sprite-02_44
+  - first:
+      213: 8065974598544566607
+    second: first 2 games sprite-02_45
+  - first:
+      213: -8448975043915589459
+    second: first 2 games sprite-02_46
+  - first:
+      213: -4023326319733163963
+    second: first 2 games sprite-02_47
+  - first:
+      213: -1300077168032039076
+    second: first 2 games sprite-02_48
+  - first:
+      213: -528294447021517072
+    second: first 2 games sprite-02_49
+  - first:
+      213: 767036758256490963
+    second: first 2 games sprite-02_50
+  - first:
+      213: -2315787309198381332
+    second: first 2 games sprite-02_51
+  - first:
+      213: -3108817153967513351
+    second: first 2 games sprite-02_52
+  - first:
+      213: 2804535216577900006
+    second: first 2 games sprite-02_53
+  - first:
+      213: 4154630860827181580
+    second: first 2 games sprite-02_54
+  - first:
+      213: 7714630607350076646
+    second: first 2 games sprite-02_55
+  - first:
+      213: -7201388851000952410
+    second: first 2 games sprite-02_56
+  - first:
+      213: 8430653860250245639
+    second: first 2 games sprite-02_57
+  - first:
+      213: 6547120219555115466
+    second: first 2 games sprite-02_58
+  - first:
+      213: 7783738972237626397
+    second: first 2 games sprite-02_59
+  - first:
+      213: -8302984544573837643
+    second: first 2 games sprite-02_60
+  - first:
+      213: -9109560145178912866
+    second: first 2 games sprite-02_61
+  - first:
+      213: 5716179275348263870
+    second: first 2 games sprite-02_62
+  - first:
+      213: -8682538781978574843
+    second: first 2 games sprite-02_63
+  - first:
+      213: -5374333378481421096
+    second: first 2 games sprite-02_64
+  - first:
+      213: -2118050561251675376
+    second: first 2 games sprite-02_65
+  - first:
+      213: 1019779537776566625
+    second: first 2 games sprite-02_66
+  - first:
+      213: -5986741149701670990
+    second: first 2 games sprite-02_67
+  - first:
+      213: 6154824274579949847
+    second: first 2 games sprite-02_68
+  - first:
+      213: -630578329537880294
+    second: first 2 games sprite-02_69
+  - first:
+      213: 2938043146543883783
+    second: first 2 games sprite-02_70
+  - first:
+      213: -395714552922272973
+    second: first 2 games sprite-02_71
+  - first:
+      213: -3482819641208652096
+    second: first 2 games sprite-02_72
+  - first:
+      213: 719730191538812300
+    second: first 2 games sprite-02_73
+  - first:
+      213: 3235877807305463465
+    second: first 2 games sprite-02_74
+  - first:
+      213: 1233644838895210576
+    second: first 2 games sprite-02_75
+  - first:
+      213: 4502953862073416374
+    second: first 2 games sprite-02_76
+  - first:
+      213: 612423188425212655
+    second: first 2 games sprite-02_77
+  - first:
+      213: -9104121728476555288
+    second: first 2 games sprite-02_78
+  - first:
+      213: 1879057277494145515
+    second: first 2 games sprite-02_79
+  - first:
+      213: -1626044190729542319
+    second: first 2 games sprite-02_80
+  - first:
+      213: -4186971838469822741
+    second: first 2 games sprite-02_81
+  - first:
+      213: -7148383245184591527
+    second: first 2 games sprite-02_82
+  - first:
+      213: -8085431545269104271
+    second: first 2 games sprite-02_83
+  - first:
+      213: -4775923995815200813
+    second: first 2 games sprite-02_84
+  - first:
+      213: 8851149490659292354
+    second: first 2 games sprite-02_85
+  - first:
+      213: -2693615985186203433
+    second: first 2 games sprite-02_86
+  - first:
+      213: -6909820724244111203
+    second: first 2 games sprite-02_87
+  - first:
+      213: 2913733797202649563
+    second: first 2 games sprite-02_88
+  - first:
+      213: 2901954048806687434
+    second: first 2 games sprite-02_89
+  - first:
+      213: 8431535323686607836
+    second: first 2 games sprite-02_90
+  - first:
+      213: 8896023008800018795
+    second: first 2 games sprite-02_91
+  - first:
+      213: -5856734905346799504
+    second: first 2 games sprite-02_92
+  - first:
+      213: 3092701454185367250
+    second: first 2 games sprite-02_93
+  - first:
+      213: -1599412045677222050
+    second: first 2 games sprite-02_94
+  - first:
+      213: -3525331975109873555
+    second: first 2 games sprite-02_95
+  - first:
+      213: -1221650455888141023
+    second: first 2 games sprite-02_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: first 2 games sprite-02_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9692
+        width: 3201
+        height: 2110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206850ca442f088b0800000000000000
+      internalID: -5151851596954106366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_1
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 7950
+        width: 6830
+        height: 4193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31caddbc04690bdd0800000000000000
+      internalID: -2472310990384026605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 7950
+        width: 1164
+        height: 1361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ef0f231223cef80800000000000000
+      internalID: -8076024913612177799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_3
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 7926
+        width: 1754
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5042431b4eb2050800000000000000
+      internalID: 5776962396767913400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_4
+      rect:
+        serializedVersion: 2
+        x: 11162
+        y: 9029
+        width: 511
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8325ea19fae00a0800000000000000
+      internalID: -6913395337737389909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_5
+      rect:
+        serializedVersion: 2
+        x: 11131
+        y: 8259
+        width: 531
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba4156bbfc775f20800000000000000
+      internalID: 3411332663293856437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_6
+      rect:
+        serializedVersion: 2
+        x: 11137
+        y: 7793
+        width: 657
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81dfb0512fd3a700800000000000000
+      internalID: 550528913650995596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5984
+        width: 1893
+        height: 1779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed1a877af20a61d0800000000000000
+      internalID: -3356867297480663583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_8
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 6087
+        width: 1097
+        height: 1175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bdf4a6d57dd57c0800000000000000
+      internalID: -4080868891112252625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_9
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 7190
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff4f521e350a920800000000000000
+      internalID: 2999489578298310403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_10
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 7196
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9441ba9cd173600800000000000000
+      internalID: 447859439942519246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_11
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 5629
+        width: 3051
+        height: 1917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff5200a99aae4e40800000000000000
+      internalID: 5642634959933038588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_12
+      rect:
+        serializedVersion: 2
+        x: 7828
+        y: 7172
+        width: 874
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1181627d65f880800000000000000
+      internalID: -8577829577227690291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_13
+      rect:
+        serializedVersion: 2
+        x: 8817
+        y: 7166
+        width: 1030
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487ea19e6fab61470800000000000000
+      internalID: 8365078927522850692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_14
+      rect:
+        serializedVersion: 2
+        x: 9974
+        y: 7142
+        width: 982
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0032192549dc40800000000000000
+      internalID: 5537533259529849441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_15
+      rect:
+        serializedVersion: 2
+        x: 11131
+        y: 7160
+        width: 687
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64121e56e12937e0800000000000000
+      internalID: -1785358503971253142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_16
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 6925
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36850364adad670800000000000000
+      internalID: 8564397636392084439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_17
+      rect:
+        serializedVersion: 2
+        x: 11451
+        y: 6430
+        width: 470
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5773b79a3ac4f7a70800000000000000
+      internalID: 8826858060476266357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_18
+      rect:
+        serializedVersion: 2
+        x: 7967
+        y: 6237
+        width: 747
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3ecfbc38c65d8f0800000000000000
+      internalID: -516387268945189935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_19
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 6708
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14796b559751e5cc0800000000000000
+      internalID: -3720512631288195263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_20
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 6744
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc1e9d3cf75f970800000000000000
+      internalID: 8788070727034195203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_21
+      rect:
+        serializedVersion: 2
+        x: 9015
+        y: 6334
+        width: 398
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2615972b4472efe0800000000000000
+      internalID: -1161237887772715474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_22
+      rect:
+        serializedVersion: 2
+        x: 9384
+        y: 6708
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c35433006c4aa9e0800000000000000
+      internalID: -1609389941577198648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_23
+      rect:
+        serializedVersion: 2
+        x: 9606
+        y: 6310
+        width: 735
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874ebb882604289e0800000000000000
+      internalID: -1620662123954969480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_24
+      rect:
+        serializedVersion: 2
+        x: 10516
+        y: 6497
+        width: 838
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e99fcb28ad8cb450800000000000000
+      internalID: 6105910948236597729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_25
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6671
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa8d82f64861bd70800000000000000
+      internalID: 9057134979545139878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_26
+      rect:
+        serializedVersion: 2
+        x: 8919
+        y: 6642
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd24bb81617898d60800000000000000
+      internalID: 7892988350917460700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_27
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 6639
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cab5d0f115fd230800000000000000
+      internalID: 3665737815512820778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_28
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 6587
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820e7a8892f775f70800000000000000
+      internalID: 9175942582153764904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_29
+      rect:
+        serializedVersion: 2
+        x: 8943
+        y: 6599
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138476bed2415950800000000000000
+      internalID: 6435998866800411413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_30
+      rect:
+        serializedVersion: 2
+        x: 9413
+        y: 6581
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ebd4c5ed7ffb70800000000000000
+      internalID: 8934998611530081754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_31
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 6448
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecc6d7e3cb7b930800000000000000
+      internalID: 4158999757478219332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_32
+      rect:
+        serializedVersion: 2
+        x: 8895
+        y: 6491
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e53b994da44d30800000000000000
+      internalID: 4414844066378146689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_33
+      rect:
+        serializedVersion: 2
+        x: 9401
+        y: 6454
+        width: 103
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7f7259b59a6ff50800000000000000
+      internalID: 6914900488683517870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_34
+      rect:
+        serializedVersion: 2
+        x: 8979
+        y: 6454
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e516f3db3aa29190800000000000000
+      internalID: -7957110417674332701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_35
+      rect:
+        serializedVersion: 2
+        x: 9383
+        y: 6430
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27c218ceacf5ad0800000000000000
+      internalID: -2711225333525482780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_36
+      rect:
+        serializedVersion: 2
+        x: 8993
+        y: 6343
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef405b5f17403cd30800000000000000
+      internalID: 4450405744272278782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_37
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 6280
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86438f836c21e87a0800000000000000
+      internalID: -6373135780114058136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_38
+      rect:
+        serializedVersion: 2
+        x: 10782
+        y: 5858
+        width: 747
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec52f0a83f3f9910800000000000000
+      internalID: 1846263884696149230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4591
+        width: 1178
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96ef6198bdfa8f80800000000000000
+      internalID: -8103385610343946598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_40
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5695
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8895f07ed0858280800000000000000
+      internalID: -9041678984010164085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_41
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 5701
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b773d216148bb40800000000000000
+      internalID: 5456182834185599860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_42
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 4591
+        width: 1103
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580daa02c73e78d0800000000000000
+      internalID: -2846776607909279649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_43
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 5695
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581308d03f6815f70800000000000000
+      internalID: 9174262294392091013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_44
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 5701
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6cb788aa0f33f10800000000000000
+      internalID: 2248405254212929212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_45
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 4591
+        width: 1097
+        height: 1180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49a299792910ff60800000000000000
+      internalID: 8065974598544566607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_46
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 5695
+        width: 59
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8554f46f53fba80800000000000000
+      internalID: -8448975043915589459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_47
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 5701
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54833d857064a28c0800000000000000
+      internalID: -4023326319733163963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_48
+      rect:
+        serializedVersion: 2
+        x: 7774
+        y: 4501
+        width: 1573
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fbada24b235fde0800000000000000
+      internalID: -1300077168032039076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_49
+      rect:
+        serializedVersion: 2
+        x: 9679
+        y: 4567
+        width: 861
+        height: 1550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6987cdffe1ba8f0800000000000000
+      internalID: -528294447021517072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_50
+      rect:
+        serializedVersion: 2
+        x: 11764
+        y: 5713
+        width: 332
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99b812edf05aa00800000000000000
+      internalID: 767036758256490963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5430
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6fdb36bbacdfd0800000000000000
+      internalID: -2315787309198381332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_52
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 5430
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0202a05434bd4d0800000000000000
+      internalID: -3108817153967513351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_53
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 5430
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede230abe5bbe620800000000000000
+      internalID: 2804535216577900006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_54
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 3669
+        width: 3079
+        height: 1857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02ca7871c638a930800000000000000
+      internalID: 4154630860827181580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_55
+      rect:
+        serializedVersion: 2
+        x: 10903
+        y: 4911
+        width: 674
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4157cd9afdf0b60800000000000000
+      internalID: 7714630607350076646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_56
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 5176
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a931ae9ef68f0c90800000000000000
+      internalID: -7201388851000952410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_57
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 5176
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70add74b403bff470800000000000000
+      internalID: 8430653860250245639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_58
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5176
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13c5cc62b0cda50800000000000000
+      internalID: 6547120219555115466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_59
+      rect:
+        serializedVersion: 2
+        x: 11686
+        y: 4941
+        width: 660
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7690fa55650c60800000000000000
+      internalID: 7783738972237626397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5092
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2e1d3c8fd5cc80800000000000000
+      internalID: -8302984544573837643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_61
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5092
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971e8eff47549180800000000000000
+      internalID: -9109560145178912866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_62
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 5092
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3459be3c2f35f40800000000000000
+      internalID: 5716179275348263870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4953
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004d97dafc618780800000000000000
+      internalID: -8682538781978574843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_64
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 4953
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4071744488a65b0800000000000000
+      internalID: -5374333378481421096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_65
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 4953
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013f6488c3c2b92e0800000000000000
+      internalID: -2118050561251675376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_66
+      rect:
+        serializedVersion: 2
+        x: 10776
+        y: 4046
+        width: 621
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161626a261cf62e00800000000000000
+      internalID: 1019779537776566625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_67
+      rect:
+        serializedVersion: 2
+        x: 11508
+        y: 4623
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b771d9b4a2daeca0800000000000000
+      internalID: -5986741149701670990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_68
+      rect:
+        serializedVersion: 2
+        x: 12338
+        y: 4623
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190a4d61145a6550800000000000000
+      internalID: 6154824274579949847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_69
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3379
+        width: 1954
+        height: 1058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fd5d8a95cbf37f0800000000000000
+      internalID: -630578329537880294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_70
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 3554
+        width: 1308
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706e484eca606c820800000000000000
+      internalID: 2938043146543883783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_71
+      rect:
+        serializedVersion: 2
+        x: 9715
+        y: 4037
+        width: 759
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8d90f5b3228af0800000000000000
+      internalID: -395714552922272973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_72
+      rect:
+        serializedVersion: 2
+        x: 11632
+        y: 4038
+        width: 596
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce31053df98aafc0800000000000000
+      internalID: -3482819641208652096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_73
+      rect:
+        serializedVersion: 2
+        x: 11508
+        y: 4002
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857bc0cbcefcf900800000000000000
+      internalID: 719730191538812300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1697
+        width: 1862
+        height: 1519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61309a8b528ec20800000000000000
+      internalID: 3235877807305463465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_75
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1878
+        width: 2471
+        height: 1368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d751e179ce1110800000000000000
+      internalID: 1233644838895210576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_76
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 1993
+        width: 1446
+        height: 1477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bafbdc0ea4bd7e30800000000000000
+      internalID: 4502953862073416374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_77
+      rect:
+        serializedVersion: 2
+        x: 6604
+        y: 2059
+        width: 2224
+        height: 1357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe20c4625a3cf7800800000000000000
+      internalID: 612423188425212655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_78
+      rect:
+        serializedVersion: 2
+        x: 9124
+        y: 2137
+        width: 1308
+        height: 1459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75d3e0689a7a180800000000000000
+      internalID: -9104121728476555288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_79
+      rect:
+        serializedVersion: 2
+        x: 10649
+        y: 2059
+        width: 1513
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1b6a163a0c31a10800000000000000
+      internalID: 1879057277494145515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_80
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 250
+        width: 1097
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556a767c612f69e0800000000000000
+      internalID: -1626044190729542319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_81
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1354
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be62173eb43e4e5c0800000000000000
+      internalID: -4186971838469822741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_82
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1360
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591b60ff47dbcc90800000000000000
+      internalID: -7148383245184591527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_83
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 250
+        width: 1097
+        height: 1176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1715f7819d6cacf80800000000000000
+      internalID: -8085431545269104271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_84
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1354
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7bb230e6288bdb0800000000000000
+      internalID: -4775923995815200813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_85
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1360
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c470acf09995da70800000000000000
+      internalID: 8851149490659292354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_86
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 208
+        width: 1302
+        height: 1296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d899a9688a5e9ad0800000000000000
+      internalID: -2693615985186203433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_87
+      rect:
+        serializedVersion: 2
+        x: 5037
+        y: 455
+        width: 2357
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902ccd39a26b10a0800000000000000
+      internalID: -6909820724244111203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_88
+      rect:
+        serializedVersion: 2
+        x: 7714
+        y: 0
+        width: 1325
+        height: 1860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd160507379af6820800000000000000
+      internalID: 2913733797202649563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_89
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1089
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211a905dfc54820800000000000000
+      internalID: 2901954048806687434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_90
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1089
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9f7764b4d20570800000000000000
+      internalID: 8431535323686607836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_91
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 835
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611a391bc5057b70800000000000000
+      internalID: 8896023008800018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_92
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 835
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784c2742a2b8bea0800000000000000
+      internalID: -5856734905346799504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_93
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 751
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d68d05369b7bea20800000000000000
+      internalID: 3092701454185367250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_94
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 751
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57adefe73fbdc9e0800000000000000
+      internalID: -1599412045677222050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_95
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 612
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ff342f31831fc0800000000000000
+      internalID: -3525331975109873555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: first 2 games sprite-02_96
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 612
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e7190263db0fe0800000000000000
+      internalID: -1221650455888141023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

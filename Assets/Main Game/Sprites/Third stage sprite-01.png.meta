@@ -1,0 +1,1032 @@
+fileFormatVersion: 2
+guid: 2b7b0e18e26d1e043b9daa7990cc3f10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3490446283105127978
+    second: Third stage sprite-01_0
+  - first:
+      213: 6205151791671896039
+    second: Third stage sprite-01_1
+  - first:
+      213: 8893842528824302370
+    second: Third stage sprite-01_2
+  - first:
+      213: -6774541875862451851
+    second: Third stage sprite-01_3
+  - first:
+      213: 6588539929103182401
+    second: Third stage sprite-01_4
+  - first:
+      213: -4221656036375895745
+    second: Third stage sprite-01_5
+  - first:
+      213: -3698360628766392853
+    second: Third stage sprite-01_6
+  - first:
+      213: -8860210141912635599
+    second: Third stage sprite-01_7
+  - first:
+      213: 4208784956510478833
+    second: Third stage sprite-01_8
+  - first:
+      213: 7058626407349745561
+    second: Third stage sprite-01_9
+  - first:
+      213: -4833615554137577088
+    second: Third stage sprite-01_10
+  - first:
+      213: -6784727474104780937
+    second: Third stage sprite-01_11
+  - first:
+      213: 330901874072368953
+    second: Third stage sprite-01_12
+  - first:
+      213: 1854506385493664851
+    second: Third stage sprite-01_13
+  - first:
+      213: -3421045116282000429
+    second: Third stage sprite-01_14
+  - first:
+      213: 2091783194660109692
+    second: Third stage sprite-01_15
+  - first:
+      213: -6236750750239382984
+    second: Third stage sprite-01_16
+  - first:
+      213: 3521990851499593872
+    second: Third stage sprite-01_17
+  - first:
+      213: 8642032793816130454
+    second: Third stage sprite-01_18
+  - first:
+      213: -7693569885415728518
+    second: Third stage sprite-01_19
+  - first:
+      213: -1902500851213152583
+    second: Third stage sprite-01_20
+  - first:
+      213: 1862260456656519728
+    second: Third stage sprite-01_21
+  - first:
+      213: 473772683065408113
+    second: Third stage sprite-01_22
+  - first:
+      213: 846871371473097692
+    second: Third stage sprite-01_23
+  - first:
+      213: 8141027229298772229
+    second: Third stage sprite-01_24
+  - first:
+      213: 93357174091971348
+    second: Third stage sprite-01_25
+  - first:
+      213: -5912598740201314483
+    second: Third stage sprite-01_26
+  - first:
+      213: 5924564011690850726
+    second: Third stage sprite-01_27
+  - first:
+      213: -4422827779241431592
+    second: Third stage sprite-01_28
+  - first:
+      213: 4967241981694293305
+    second: Third stage sprite-01_29
+  - first:
+      213: -9123721886658682371
+    second: Third stage sprite-01_30
+  - first:
+      213: 3201770594010134953
+    second: Third stage sprite-01_31
+  - first:
+      213: -6566187179091433289
+    second: Third stage sprite-01_32
+  - first:
+      213: -6958522036288508545
+    second: Third stage sprite-01_33
+  - first:
+      213: -2829334676292359114
+    second: Third stage sprite-01_34
+  - first:
+      213: -5536902904237112419
+    second: Third stage sprite-01_35
+  - first:
+      213: 2858745709164585704
+    second: Third stage sprite-01_36
+  - first:
+      213: 5879401797310158317
+    second: Third stage sprite-01_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Third stage sprite-01_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 7691
+        width: 795
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e401cb66e807030800000000000000
+      internalID: 3490446283105127978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_1
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 7657
+        width: 745
+        height: 1009
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76bff9da02d1650800000000000000
+      internalID: 6205151791671896039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_2
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 7124
+        width: 1955
+        height: 1542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b95da88a64d6b70800000000000000
+      internalID: 8893842528824302370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_3
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 5634
+        width: 1248
+        height: 2344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c5359e0efbf1a0800000000000000
+      internalID: -6774541875862451851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_4
+      rect:
+        serializedVersion: 2
+        x: 5710
+        y: 6049
+        width: 914
+        height: 2031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a2cae68223f6b50800000000000000
+      internalID: 6588539929103182401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6680
+        width: 1020
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f316ee3c33aa965c0800000000000000
+      internalID: -4221656036375895745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_6
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5262
+        width: 901
+        height: 2124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedb6175a98ccacc0800000000000000
+      internalID: -3698360628766392853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_7
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 5584
+        width: 1975
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ebffb1d53a0580800000000000000
+      internalID: -8860210141912635599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6091
+        width: 706
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1a0dc6e9b986a30800000000000000
+      internalID: 4208784956510478833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5287
+        width: 727
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f54cb15745f160800000000000000
+      internalID: 7058626407349745561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_10
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 4069
+        width: 2116
+        height: 1269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a3da534c8becb0800000000000000
+      internalID: -4833615554137577088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_11
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 3717
+        width: 1633
+        height: 1849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777b6203f4ec7d1a0800000000000000
+      internalID: -6784727474104780937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_12
+      rect:
+        serializedVersion: 2
+        x: 6053
+        y: 4183
+        width: 605
+        height: 1603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93738935089979400800000000000000
+      internalID: 330901874072368953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 5153
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542b056bb78cb910800000000000000
+      internalID: 1854506385493664851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4637
+        width: 947
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2d6b97910680d0800000000000000
+      internalID: -3421045116282000429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_15
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 3946
+        width: 431
+        height: 893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df8d89bb1870d10800000000000000
+      internalID: 2091783194660109692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4602
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832a4538c3c9279a0800000000000000
+      internalID: -6236750750239382984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4602
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0901fc5e400a0e030800000000000000
+      internalID: 3521990851499593872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3937
+        width: 1098
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693efacd90baee770800000000000000
+      internalID: 8642032793816130454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_19
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 3070
+        width: 406
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a172593f2fa3590800000000000000
+      internalID: -7693569885415728518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_20
+      rect:
+        serializedVersion: 2
+        x: 6099
+        y: 3408
+        width: 654
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9becf824e85f895e0800000000000000
+      internalID: -1902500851213152583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3193
+        width: 1054
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c446c40418d910800000000000000
+      internalID: 1862260456656519728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_22
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 3121
+        width: 922
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ab56ebebd239600800000000000000
+      internalID: 473772683065408113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_23
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3104
+        width: 757
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31a138601b0cb00800000000000000
+      internalID: 846871371473097692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_24
+      rect:
+        serializedVersion: 2
+        x: 4475
+        y: 1604
+        width: 1573
+        height: 2075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509c22dc12dbaf070800000000000000
+      internalID: 8141027229298772229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_25
+      rect:
+        serializedVersion: 2
+        x: 6112
+        y: 2698
+        width: 630
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7cfeeadbab4100800000000000000
+      internalID: 93357174091971348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2038
+        width: 639
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e0e6a5ca32fda0800000000000000
+      internalID: -5912598740201314483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_27
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2122
+        width: 791
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a975e53497483250800000000000000
+      internalID: 5924564011690850726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_28
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2169
+        width: 630
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dda5936195fe92c0800000000000000
+      internalID: -4422827779241431592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_29
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2101
+        width: 369
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935bb48c3403fe440800000000000000
+      internalID: 4967241981694293305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_30
+      rect:
+        serializedVersion: 2
+        x: 3831
+        y: 2190
+        width: 288
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a04c9847026180800000000000000
+      internalID: -9123721886658682371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_31
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 1724
+        width: 347
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9f34c3469fe6c20800000000000000
+      internalID: 3201770594010134953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 1123
+        height: 1227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8e78dbc8730e4a0800000000000000
+      internalID: -6566187179091433289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_33
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 0
+        width: 871
+        height: 1991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dab49631d5e6f90800000000000000
+      internalID: -6958522036288508545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_34
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1079
+        width: 698
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c26e43a1f2cb8d0800000000000000
+      internalID: -2829334676292359114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_35
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1081
+        width: 749
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d934e15f428f823b0800000000000000
+      internalID: -5536902904237112419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_36
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 311
+        width: 2566
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e26de1831e4ca720800000000000000
+      internalID: 2858745709164585704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Third stage sprite-01_37
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 0
+        width: 1764
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51774c8c4d79150800000000000000
+      internalID: 5879401797310158317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

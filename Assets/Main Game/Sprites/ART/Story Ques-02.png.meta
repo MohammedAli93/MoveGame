@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 06df87a7f2d62894093e2d8eb176a612
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6943976425035755836
+    second: Story Ques-02_0
+  - first:
+      213: 6266559666804390334
+    second: Story Ques-02_1
+  - first:
+      213: 3794340649431167784
+    second: Story Ques-02_2
+  - first:
+      213: 5018183356130092061
+    second: Story Ques-02_3
+  - first:
+      213: 2679441739622401564
+    second: Story Ques-02_4
+  - first:
+      213: 5688797447380831257
+    second: Story Ques-02_5
+  - first:
+      213: -3783826705876565862
+    second: Story Ques-02_6
+  - first:
+      213: 6501783148652487947
+    second: Story Ques-02_7
+  - first:
+      213: -8029154488634062368
+    second: Story Ques-02_8
+  - first:
+      213: 565428446849542094
+    second: Story Ques-02_9
+  - first:
+      213: 308953281588552303
+    second: Story Ques-02_10
+  - first:
+      213: 4125997756672803486
+    second: Story Ques-02_11
+  - first:
+      213: 4997984858397271504
+    second: Story Ques-02_12
+  - first:
+      213: -2594698215412007076
+    second: Story Ques-02_13
+  - first:
+      213: 1912034897170132766
+    second: Story Ques-02_14
+  - first:
+      213: 7574204551229929247
+    second: Story Ques-02_15
+  - first:
+      213: 6899552983591979505
+    second: Story Ques-02_16
+  - first:
+      213: 224129811641123421
+    second: Story Ques-02_17
+  - first:
+      213: -8010621436815003406
+    second: Story Ques-02_18
+  - first:
+      213: -6723197164610326969
+    second: Story Ques-02_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Story Ques-02_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3131
+        width: 1348
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce8e017b3a02af90800000000000000
+      internalID: -6943976425035755836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_1
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 3143
+        width: 1385
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97aa7b0da47f650800000000000000
+      internalID: 6266559666804390334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_2
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 3154
+        width: 1426
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237b26a7b438a430800000000000000
+      internalID: 3794340649431167784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2660
+        width: 4392
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1469e7cc2b24a540800000000000000
+      internalID: 5018183356130092061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_4
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 2270
+        width: 508
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164c8ed01a4f2520800000000000000
+      internalID: 2679441739622401564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_5
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2259
+        width: 360
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c884a432ba2fe40800000000000000
+      internalID: 5688797447380831257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_6
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 2277
+        width: 516
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90479898a52d7bc0800000000000000
+      internalID: -3783826705876565862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2233
+        width: 2741
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056d066359fa3a50800000000000000
+      internalID: 6501783148652487947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_8
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 1787
+        width: 516
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9cb3a6886b29090800000000000000
+      internalID: -8029154488634062368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_9
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 1784
+        width: 594
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72e583d2ec8d700800000000000000
+      internalID: 565428446849542094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_10
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 1784
+        width: 520
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e6496f5f994400800000000000000
+      internalID: 308953281588552303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_11
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1743
+        width: 423
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928a86691d724930800000000000000
+      internalID: 4125997756672803486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_12
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1754
+        width: 505
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5ec8d8fb86c5540800000000000000
+      internalID: 4997984858397271504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1739
+        width: 572
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff60b68b7cdfbd0800000000000000
+      internalID: -2594698215412007076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_14
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1282
+        width: 2225
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fe9fbcb99e88a10800000000000000
+      internalID: 1912034897170132766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 859
+        width: 4705
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f434d8eafc1960800000000000000
+      internalID: 7574204551229929247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_16
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 491
+        width: 810
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f98cf712e220cf50800000000000000
+      internalID: 6899552983591979505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_17
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 517
+        width: 928
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c17e40e44c1300800000000000000
+      internalID: 224129811641123421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 510
+        width: 1270
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0338cce3e84d090800000000000000
+      internalID: -8010621436815003406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Story Ques-02_19
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 3877
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eec70ccc762b2a0800000000000000
+      internalID: -6723197164610326969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
