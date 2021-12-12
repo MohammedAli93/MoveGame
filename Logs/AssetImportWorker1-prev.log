@@ -1,0 +1,646 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/hudarasmey/Desktop/MoveGame
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49848
+Successfully changed project path to: /Users/hudarasmey/Desktop/MoveGame
+/Users/hudarasmey/Desktop/MoveGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 69.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/hudarasmey/Desktop/MoveGame/Assets
+GfxDevice: creating device client; threaded=0
+Renderer: NVIDIA GeForce GT 330M OpenGL Engine
+Vendor:   NVIDIA Corporation
+Version:  3.3 NVIDIA-10.4.14 310.90.30.05b27
+GLES:     0
+ GL_ARB_blend_func_extended GL_ARB_draw_buffers_blend GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_occlusion_query2 GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shading_language_include GL_ARB_texture_cube_map_array GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_depth_bounds_test GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB_decode GL_APPLE_client_storage GL_APPLE_container_object_shareable GL_APPLE_flush_render GL_APPLE_object_purgeable GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_texture_range GL_ATI_texture_mirror_once GL_NV_texture_barrier
+OPENGL LOG: Creating OpenGL 3.3 graphics device ; Context level  <OpenGL 3.3> ; Context handle -301450752
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56018
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002957 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 58.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.630 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.231 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.23 seconds
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Mobile/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Mobile/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 202 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 225 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1580 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.8 MB.
+System memory in use after: 146.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2017.
+Total: 4.552804 ms (FindLiveObjects: 0.357221 ms CreateObjectMapping: 0.086474 ms MarkObjects: 3.947585 ms  DeleteObjects: 0.158530 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Main Game/Animations/Area 4/Maze/Placeholders
+  artifactKey: Guid(32eb843f8b6afc44185eaa6d9f98e67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Animations/Area 4/Maze/Placeholders using Guid(32eb843f8b6afc44185eaa6d9f98e67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22916f89251444ef0bfb6f5b3a7d8c29') in 0.008079 seconds 
+  Import took 0.014141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.655221 seconds.
+  path: Assets/Main Game/Animations/Area 4
+  artifactKey: Guid(8e423087a132c144ab53006430c671d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Animations/Area 4 using Guid(8e423087a132c144ab53006430c671d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16089d50a66b7b825a87ce947a2b2058') in 0.003058 seconds 
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.449593 seconds.
+  path: Assets/Main Game/Sprites
+  artifactKey: Guid(bffd50ce939e1a84c9b742a0a74ea4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites using Guid(bffd50ce939e1a84c9b742a0a74ea4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3570919a82e4165551afcc1fda74031') in 0.007658 seconds 
+  Import took 0.014384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102174 seconds.
+  path: Assets/Main Game/Sprites/5 Maps-01.png
+  artifactKey: Guid(6955c4ba80e0bdc42b906773df9b06e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/5 Maps-01.png using Guid(6955c4ba80e0bdc42b906773df9b06e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9c9215865772676c0c1404c18fa820') in 2.353264 seconds 
+  Import took 2.359408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/Main Game/Sprites/kisspng-padlock-computer-icons-clip-art-padlock-5abd493fc9b3d5.7959310415223544958262.png
+  artifactKey: Guid(042f31187ba7a894091fb0e366d5a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/kisspng-padlock-computer-icons-clip-art-padlock-5abd493fc9b3d5.7959310415223544958262.png using Guid(042f31187ba7a894091fb0e366d5a62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd347d4bbde8367cd1810f95ca0d2f51') in 0.041635 seconds 
+  Import took 0.048691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000525 seconds.
+  path: Assets/Main Game/Sprites/Garden-01.png
+  artifactKey: Guid(479f1b1cdedc18f448ec4a3c77d0fab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Garden-01.png using Guid(479f1b1cdedc18f448ec4a3c77d0fab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2660efec957c3cc3a997e6ac7bffb1') in 0.055992 seconds 
+  Import took 0.063238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Main Game/Sprites/alphabets sprite-04.png
+  artifactKey: Guid(fc17fd13b5619b64ab01178b077fe79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/alphabets sprite-04.png using Guid(fc17fd13b5619b64ab01178b077fe79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e96c0550ddcb78501c0705e24e8d104') in 0.347282 seconds 
+  Import took 0.362507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/Main Game/Sprites/first 2 games sprite-02 (1).png
+  artifactKey: Guid(fdf904560ecc47c41993e03b70c33f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/first 2 games sprite-02 (1).png using Guid(fdf904560ecc47c41993e03b70c33f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef9ee676cb2bcd1387d6b9f751132fd') in 1.114467 seconds 
+  Import took 1.127683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Main Game/Sprites/Forth stage sprite-02.png
+  artifactKey: Guid(6a7c4cdf8fca6104e8c6d8bf37fd9d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Forth stage sprite-02.png using Guid(6a7c4cdf8fca6104e8c6d8bf37fd9d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c715c060683a1540c9d00843d83a0bf1') in 0.205825 seconds 
+  Import took 0.212289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000539 seconds.
+  path: Assets/Main Game/Sprites/right-true-verify-perfect-trust-64-32776.png
+  artifactKey: Guid(7d9a256ecb65ecd4b86c82050aeec0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/right-true-verify-perfect-trust-64-32776.png using Guid(7d9a256ecb65ecd4b86c82050aeec0ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839f4b9125deb040ee7621c820c7d78d') in 0.043519 seconds 
+  Import took 0.050512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Main Game/Sprites/ai t3limi-01.png
+  artifactKey: Guid(f627fbd8f02c7fc48a4d10c1246f5c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/ai t3limi-01.png using Guid(f627fbd8f02c7fc48a4d10c1246f5c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913d524d09b99e1c82139f8d394d8227') in 0.040137 seconds 
+  Import took 0.048041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Main Game/Sprites/Shapes sprite-01 (1).png
+  artifactKey: Guid(274b346e6e669604e8b58a4777fe0639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Shapes sprite-01 (1).png using Guid(274b346e6e669604e8b58a4777fe0639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1b65e739679fbfbb1c6861e387058e') in 0.167901 seconds 
+  Import took 0.174797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Main Game/Sprites/388-3887666_wrong-icon-with-png-and-vector-format-for-free-unlimited-wrong-icon.png
+  artifactKey: Guid(8118a32a94038594284830f73efb4b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/388-3887666_wrong-icon-with-png-and-vector-format-for-free-unlimited-wrong-icon.png using Guid(8118a32a94038594284830f73efb4b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973bedd47a12b0ab427107fb2b618789') in 0.034850 seconds 
+  Import took 0.040990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000464 seconds.
+  path: Assets/Main Game/Sprites/Games bg-01.png
+  artifactKey: Guid(1290ebc927f65394f803f0ad2e8f2bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Games bg-01.png using Guid(1290ebc927f65394f803f0ad2e8f2bda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f19b10726949537de799cbfa328bf4a') in 0.042456 seconds 
+  Import took 0.050436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Main Game/Sprites/Dialogue-02.png
+  artifactKey: Guid(22e34fb2645b83b49934ee36cf725f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Dialogue-02.png using Guid(22e34fb2645b83b49934ee36cf725f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b59e442577df53ce20f88ba759db405') in 0.041277 seconds 
+  Import took 0.049587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Main Game/Sprites/Area 4
+  artifactKey: Guid(9fb6d68774214e94f812fdbb10c49bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4 using Guid(9fb6d68774214e94f812fdbb10c49bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7da2c1e7382661f9531d1f80a388db') in 0.002721 seconds 
+  Import took 0.010168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000461 seconds.
+  path: Assets/Main Game/Sprites/light room-01.png
+  artifactKey: Guid(054d9a679f46ca944a215dbb86023204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/light room-01.png using Guid(054d9a679f46ca944a215dbb86023204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50ed9bdad5ddb3b2e7844ec5280a6af7') in 0.049433 seconds 
+  Import took 0.055995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001388 seconds.
+  path: Assets/Main Game/Sprites/bg 2-01.png
+  artifactKey: Guid(826090e48e63a824da5eadd3da54d5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/bg 2-01.png using Guid(826090e48e63a824da5eadd3da54d5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4d68788e0ff46b11c45346ff668df3') in 0.052914 seconds 
+  Import took 0.061406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000605 seconds.
+  path: Assets/Main Game/Sprites/Map islands-02.png
+  artifactKey: Guid(02c360e08d8814b4abe085221a104dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Map islands-02.png using Guid(02c360e08d8814b4abe085221a104dd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4dd21145b4569a3a176bef371e3544') in 0.141528 seconds 
+  Import took 0.155045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060120 seconds.
+  path: Assets/Main Game/Sprites/bg 3-01.png
+  artifactKey: Guid(1ca800b2dfb5bc24eb8ac8e0b545daf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/bg 3-01.png using Guid(1ca800b2dfb5bc24eb8ac8e0b545daf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc00fac9fe1b34fecc44f918452fb86') in 0.045353 seconds 
+  Import took 0.052635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022025 seconds.
+  path: Assets/Main Game/Sprites/School-01.png
+  artifactKey: Guid(e2c4d13e0b8729840b2c3ed7311ef16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/School-01.png using Guid(e2c4d13e0b8729840b2c3ed7311ef16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96bdec065c815eda8c490f2b098aa77a') in 0.033653 seconds 
+  Import took 0.042438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Main Game/Sprites/Animal Sounds 1 sprite.png
+  artifactKey: Guid(6b098aabacb88c5448a85b90b5023da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Animal Sounds 1 sprite.png using Guid(6b098aabacb88c5448a85b90b5023da1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ca926fde3a3deb03a0f03d019156db') in 0.283428 seconds 
+  Import took 0.290762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Main Game/Sprites/main menu bg-01.png
+  artifactKey: Guid(ee26beb1ead873d4fac8fc370a1b5714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/main menu bg-01.png using Guid(ee26beb1ead873d4fac8fc370a1b5714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '836e9dc80ea2cae5b2ecce8fd81584fa') in 0.168482 seconds 
+  Import took 0.181965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Main Game/Sprites/Classroom-01.png
+  artifactKey: Guid(9a4c6f916dfc46d4d829e1fa2c9dafad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Classroom-01.png using Guid(9a4c6f916dfc46d4d829e1fa2c9dafad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a8f941ee3b9db2df0e0acbcc18c8a83') in 0.064089 seconds 
+  Import took 0.076169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001004 seconds.
+  path: Assets/Main Game/Sprites/bg 4-01.png
+  artifactKey: Guid(914e4e8092eb1e143ad42e8d2df1a14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/bg 4-01.png using Guid(914e4e8092eb1e143ad42e8d2df1a14a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1ef31f59e8f8538751aedacb518c32') in 0.033487 seconds 
+  Import took 0.040207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/Main Game/Sprites/pentagon-03.png
+  artifactKey: Guid(19a45adfbb382de45baf8deaa648889d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/pentagon-03.png using Guid(19a45adfbb382de45baf8deaa648889d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73d6316d54de85ba9d936e4c5b67fb77') in 0.065306 seconds 
+  Import took 0.084614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006664 seconds.
+  path: Assets/Main Game/Sprites/Map islands B&W.png
+  artifactKey: Guid(b2e6264f0a165ff439bfdd70232f3cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Map islands B&W.png using Guid(b2e6264f0a165ff439bfdd70232f3cd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac112d27e55bf62168b978ac67ac961b') in 0.207166 seconds 
+  Import took 0.220474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Main Game/Sprites/border-01.png
+  artifactKey: Guid(fe5c21dea5a1a7141b4ed554c3339602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/border-01.png using Guid(fe5c21dea5a1a7141b4ed554c3339602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bd02ccbf105260b2fd5ed1b61c4502c') in 0.102178 seconds 
+  Import took 0.109734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000530 seconds.
+  path: Assets/Main Game/Sprites/girls reactions-02.png
+  artifactKey: Guid(b5ab82509399b9d4bb4276dc11869a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/girls reactions-02.png using Guid(b5ab82509399b9d4bb4276dc11869a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3994059ec91f9b8349a9f42af44275cf') in 0.114732 seconds 
+  Import took 0.122661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Main Game/Sprites/reactions-01.png
+  artifactKey: Guid(9a8a5916d4c33f8448605a1930d5600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/reactions-01.png using Guid(9a8a5916d4c33f8448605a1930d5600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97af95f2e3f56556951308799f74be0c') in 0.235672 seconds 
+  Import took 0.244884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Main Game/Sprites/Dark room-01.png
+  artifactKey: Guid(0533901dea6f22042b4688572ab0da08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Dark room-01.png using Guid(0533901dea6f22042b4688572ab0da08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a0afb42bde247252bbb20022f0468d') in 0.028119 seconds 
+  Import took 0.036635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000497 seconds.
+  path: Assets/Main Game/Sprites/251350657_461855648595623_6576057909943147962_n.png
+  artifactKey: Guid(479293d9baa4a8441b28d0f603ec548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/251350657_461855648595623_6576057909943147962_n.png using Guid(479293d9baa4a8441b28d0f603ec548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405e23a49108165d31555b12b12b1dd5') in 0.032828 seconds 
+  Import took 0.041800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001287 seconds.
+  path: Assets/Main Game/Sprites/Second stage bg-01.png
+  artifactKey: Guid(80fcfa586ade873478953497927fa45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Second stage bg-01.png using Guid(80fcfa586ade873478953497927fa45d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47056886b0c843ebc95e8ade7569def6') in 0.047268 seconds 
+  Import took 0.062676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Main Game/Sprites/bell-05.png
+  artifactKey: Guid(dc09c55b93126094da0bd4260f44edab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/bell-05.png using Guid(dc09c55b93126094da0bd4260f44edab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c08aae0f3a3c145e7119fafa2c951c') in 0.029442 seconds 
+  Import took 0.044599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Main Game/Sprites/Map bg-01.png
+  artifactKey: Guid(6c9088a0e030ae54592e77b0d959b9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Map bg-01.png using Guid(6c9088a0e030ae54592e77b0d959b9d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16f33035971307d668a77680b968f20') in 0.043135 seconds 
+  Import took 0.049716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Main Game/Sprites/Sprite updates-06.png
+  artifactKey: Guid(dfb529260c06f4b40a1d57d3ee0bdd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Sprite updates-06.png using Guid(dfb529260c06f4b40a1d57d3ee0bdd23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70e8a6fdec2c986b0d6c73541259f37') in 0.124465 seconds 
+  Import took 0.129045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Main Game/Sprites/right-true-verify-perfect-trust-64-32776-01.png
+  artifactKey: Guid(418ff7dd200414d47a0d05a99d8fc00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/right-true-verify-perfect-trust-64-32776-01.png using Guid(418ff7dd200414d47a0d05a99d8fc00d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5380ad98efd6a003703e50f9e7388ce') in 0.048183 seconds 
+  Import took 0.054626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/Main Game/Sprites/first 2 games sprite-02.png
+  artifactKey: Guid(58d9b817d8eba684c863ef41b4a9254f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/first 2 games sprite-02.png using Guid(58d9b817d8eba684c863ef41b4a9254f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc03dc0fd798707db7e4310e31b6c125') in 0.721716 seconds 
+  Import took 0.734456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Main Game/Sprites/levels-02.png
+  artifactKey: Guid(016ac6309e32e07449279cf64968f9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/levels-02.png using Guid(016ac6309e32e07449279cf64968f9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e89aeeb199144bcbc93f811888c5e5c') in 0.029672 seconds 
+  Import took 0.035915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Main Game/Sprites/last 2 games-05.png
+  artifactKey: Guid(c626108e85150c543a0ea7229e870f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/last 2 games-05.png using Guid(c626108e85150c543a0ea7229e870f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f52b8756a355053f5369e35d5e566e') in 0.767972 seconds 
+  Import took 0.780618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/Main Game/Sprites/colors updated-02.png
+  artifactKey: Guid(9bbf8fb55651ebc48b0e88cc05274b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/colors updated-02.png using Guid(9bbf8fb55651ebc48b0e88cc05274b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '959ee60878b46b79516a8b7ef6368dbd') in 0.067272 seconds 
+  Import took 0.073550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Main Game/Sprites/Haitham-01 (1).png
+  artifactKey: Guid(9f4e0c8d63cb2134aa9a8b711234014d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Haitham-01 (1).png using Guid(9f4e0c8d63cb2134aa9a8b711234014d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778c1fa2a04a38c8ac86f1aece6bb35f') in 0.055619 seconds 
+  Import took 0.062260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/Main Game/Sprites/fifth stage-03.png
+  artifactKey: Guid(d316c3ce31e72c84f994dead45273eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/fifth stage-03.png using Guid(d316c3ce31e72c84f994dead45273eea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4eee4604303d1ae6cb9766464ecb941') in 0.265339 seconds 
+  Import took 0.271702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000573 seconds.
+  path: Assets/Main Game/Sprites/Area 4/Maze
+  artifactKey: Guid(1119d16004e562c49a8b634b30ed43ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/Maze using Guid(1119d16004e562c49a8b634b30ed43ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fc4ebb2710f30edcaf69bc0d849a566') in 0.003178 seconds 
+  Import took 0.009704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.511134 seconds.
+  path: Assets/Main Game/Sprites/Area 4/The Drunk
+  artifactKey: Guid(ab207ddf86e19494698bbe731b0e6669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/The Drunk using Guid(ab207ddf86e19494698bbe731b0e6669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd983921c381ccc8e1b77fdf5097bf976') in 0.004152 seconds 
+  Import took 0.010059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.320420 seconds.
+  path: Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders
+  artifactKey: Guid(433ba57b6a57a4fdf9d7f8c8602edff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders using Guid(433ba57b6a57a4fdf9d7f8c8602edff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf12f2f50f31844e1bd2167c18b396b') in 0.003711 seconds 
+  Import took 0.010562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.826922 seconds.
+  path: Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png
+  artifactKey: Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png using Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65dc7953e98961bc2ae7c9f7d38628a') in 0.090248 seconds 
+  Import took 0.098393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.225579 seconds.
+  path: Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png
+  artifactKey: Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png using Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947735212fb61123506a06c3cb3680b1') in 0.020975 seconds 
+  Import took 0.027930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.621004 seconds.
+  path: Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png
+  artifactKey: Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/The Drunk/Placeholders/WalkingGirl.png using Guid(1145d0b4df6bf4a01a3cd5ce98c6f722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20e519f1435ce130e9a9e96b35681ec3') in 0.054659 seconds 
+  Import took 0.060767 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.022697 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.442 seconds
+Platform modules already initialized, skipping
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Mobile/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Mobile/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 202 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 225 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.8 MB.
+System memory in use after: 157.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2386.
+Total: 4.586018 ms (FindLiveObjects: 0.456106 ms CreateObjectMapping: 0.096759 ms MarkObjects: 3.946482 ms  DeleteObjects: 0.084290 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.491 seconds
+Platform modules already initialized, skipping
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Mobile/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Mobile/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 202 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 225 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.0 MB.
+System memory in use after: 158.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2389.
+Total: 4.859816 ms (FindLiveObjects: 0.377451 ms CreateObjectMapping: 0.090844 ms MarkObjects: 4.343743 ms  DeleteObjects: 0.045127 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007612 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.444 seconds
+Platform modules already initialized, skipping
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Mobile/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Mobile/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 202 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+-------- GLSL link error: ERROR: Input of fragment shader 'vs_TEXCOORD2' not written by vertex shader
+
+
+
+Note: Creation of internal variant of shader 'TextMeshPro/Distance Field (Surface)' failed.
+Shader warning in 'TextMeshPro/Distance Field (Surface)': Output value 'vert' is not completely initialized at line 225 (on glcore)
+
+Compiling Vertex program with SHADOWS_DEPTH
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR UNITY_PASS_SHADOWCASTER
+Disabled keywords: SHADOWS_CUBE UNITY_NO_DXT5nm UNITY_ENABLE_NATIVE_SHADOW_LOOKUPS UNITY_METAL_SHADOWS_USE_POINT_FILTERING UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 UNITY_PBS_USE_BRDF3 UNITY_NO_FULL_STANDARD_SHADER UNITY_HARDWARE_TIER1 UNITY_HARDWARE_TIER2 UNITY_HARDWARE_TIER3 UNITY_HALF_PRECISION_FRAGMENT_SHADER_REGISTERS UNITY_LIGHTMAP_DLDR_ENCODING UNITY_LIGHTMAP_RGBM_ENCODING UNITY_VIRTUAL_TEXTURING UNITY_PRETRANSFORM_TO_DISPLAY_ORIENTATION UNITY_ASTC_NORMALMAP_ENCODING SHADER_API_GLES30
+
+Refreshing native plugins compatible for Editor in 1.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 158.2 MB.
+System memory in use after: 158.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2392.
+Total: 4.082349 ms (FindLiveObjects: 0.371263 ms CreateObjectMapping: 0.095116 ms MarkObjects: 3.499139 ms  DeleteObjects: 0.114448 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
