@@ -183,7 +183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9a4c6f916dfc46d4d829e1fa2c9dafad, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3b10377dab812dc4f9870caf964e6e1f, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1081,7 +1081,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  timeBeforeChallengeEnd: 0
+  timeBeforeChallengeEnd: 2
   timeBeforeChallengeFail: 0
   OnChallengeAboutToFinish:
     m_PersistentCalls:
@@ -1102,40 +1102,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   lines:
-  - speakerName: "\u0627\u0644\u0645\u062F\u0631\u0633"
-    line: "\u062A\u0642\u062F\u0631\u0649 \u062A\u0642\u0648\u0644\u0649 \u064A\u0627
-      \u0627\u0633\u0645\u0627\u0621 \u0627\u0644\u062D\u0631\u0648\u0641 \u0627\u0644\u0639\u0631\u0628\u064A\u0647
-      \u0628\u0627\u0644\u062A\u0631\u062A\u064A\u0628 \u0632\u0649 \u0645\u0627
-      \u0643\u0646\u062A \u0644\u0633\u0647 \u0628\u0642\u0648\u0644\u0647\u0627\u0644\u0643\u0645\r\n"
-    emotion: 2
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0633\u0645\u0627\u0621"
-    line: "\u0627\u064A\u0647 \u064A\u0627 \u0627\u0633\u062A\u0627\u0630 ... \u0627\u0646\u0627
-      \u0639\u0627\u0631\u0641\u0647\u0645 \u0643\u0644\u0647\u0645 \u0627\u0647
-      ... \u062B\u0627\u0646\u064A\u0647... \u0628\u0635\u0631\u0627\u062D\u0647
-      \u0645\u0634 \u0641\u0627\u0643\u0631\u0647 \u0645\u0639 \u0627\u0646\u0649
-      \u0630\u0627\u0643\u0631\u062A \u062F\u0647 \u0643\u0630\u0627 \u0645\u0631\u0629"
-    emotion: 3
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0644\u0645\u062F\u0631\u0633"
-    line: "\u064A\u0639\u0646\u0649 \u0645\u0634 \u062D\u0641\u0638\u0627\u0647\u0645\u061F"
-    emotion: 4
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0633\u0645\u0627\u0621"
-    line: "\u0635\u062F\u0642\u0646\u0649 \u0630\u0627\u0643\u0631\u062A\u0647\u0645
-      \u0643\u0648\u064A\u0633 \u0628\u0633 \u0645\u0634 \u0641\u0627\u0643\u0631\u0627\u0647\u0645
-      \u062E\u0627\u0644\u0635"
-    emotion: 3
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0644\u0645\u062F\u0631\u0633"
-    line: "\u0645\u0627\u0634\u0649 \u064A\u0627 \u0623\u0633\u0645\u0627\u0621 \u0628\u0639\u062F
-      \u0643\u062F\u0647 \u062A\u0631\u0643\u0632\u0649 \u0643\u0648\u064A\u0633
-      \u0639\u0634\u0627\u0646 \u062A\u062D\u0641\u0638\u0649 "
-    emotion: 4
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0633\u0645\u0627\u0621"
-    line: "\u062D\u0627\u0636\u0631 \u062D\u0627\u0636\u0631 "
-    emotion: 3
+  - speakerName: "\u0633\u0647\u064A"
+    line: ....
+    emotion: 1
     audioClip: {fileID: 0}
   characterNameText: {fileID: 1928752992}
 --- !u!82 &1778184256
@@ -1316,6 +1285,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1295420002919571261, guid: f5849c94f5cf22d4482f9d1bc617d957,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -56
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295420004682345425, guid: f5849c94f5cf22d4482f9d1bc617d957,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 12
+      objectReference: {fileID: 0}
     - target: {fileID: 2966350766767987590, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
       propertyPath: m_RootOrder

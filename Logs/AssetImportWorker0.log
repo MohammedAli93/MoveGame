@@ -1,0 +1,1202 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'en' Physical Memory: 16255 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity Projects\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/AW15R3/OneDrive/Documents/GitHub/MoveGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60637
+Successfully changed project path to: C:/Users/AW15R3/OneDrive/Documents/GitHub/MoveGame
+C:/Users/AW15R3/OneDrive/Documents/GitHub/MoveGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path D:/Unity Projects/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/AW15R3/OneDrive/Documents/GitHub/MoveGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6618
+Initialize mono
+Mono path[0] = 'D:/Unity Projects/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity Projects/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity Projects/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56688
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity Projects/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity Projects/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002246 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 41.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.316 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1583 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 74.6 MB.
+System memory in use after: 74.7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2022.
+Total: 3.424700 ms (FindLiveObjects: 0.268900 ms CreateObjectMapping: 0.149800 ms MarkObjects: 2.868000 ms  DeleteObjects: 0.136700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Main Game/Audio/Sounds
+  artifactKey: Guid(5a77ada810f535d43bb9552fa5761ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/Sounds using Guid(5a77ada810f535d43bb9552fa5761ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ba9edd9c4dd12ad4d0e251eb7c2968') in 0.011681 seconds 
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 272.681446 seconds.
+  path: Assets/Main Game/Sprites
+  artifactKey: Guid(bffd50ce939e1a84c9b742a0a74ea4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites using Guid(bffd50ce939e1a84c9b742a0a74ea4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6f1103452ad87c8824a47e50dc52208') in 0.010934 seconds 
+  Import took 0.015284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.096166 seconds.
+  path: Assets/Main Game/Sprites/Area 4
+  artifactKey: Guid(9fb6d68774214e94f812fdbb10c49bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4 using Guid(9fb6d68774214e94f812fdbb10c49bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76005a8caa9344a4ca88c8a2e03a9c2b') in 0.011682 seconds 
+  Import took 0.015472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.804000 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART
+  artifactKey: Guid(4df5c39138c4cab4f99bace4dac89188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART using Guid(4df5c39138c4cab4f99bace4dac89188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b41c6b9cc738432b129ea8d02bfdae5') in 0.010959 seconds 
+  Import took 0.014712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.467747 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Balls Sprite-03.png
+  artifactKey: Guid(bff1f869670dff743a3ba95462e46f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Balls Sprite-03.png using Guid(bff1f869670dff743a3ba95462e46f06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0735b0f1a92d5a2eab65b66fdb09232') in 0.578135 seconds 
+  Import took 0.581643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png
+  artifactKey: Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png using Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9364b64cd89b59ab0b37013bfbe0c4') in 0.040413 seconds 
+  Import took 0.043920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Garden-01.png
+  artifactKey: Guid(dff54d38bea99e841a822bc4b5c4bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Garden-01.png using Guid(dff54d38bea99e841a822bc4b5c4bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '938b63b92ae0a76d1dcfa4a55f4a60a1') in 0.026717 seconds 
+  Import took 0.029714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/soha-02.png
+  artifactKey: Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/soha-02.png using Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c10e7092cb244297fbe5e329a465a0') in 0.027948 seconds 
+  Import took 0.031296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map-01 (1).png
+  artifactKey: Guid(cb60366e3daebb14b98131884aee9814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map-01 (1).png using Guid(cb60366e3daebb14b98131884aee9814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c130f1cce27dc8d220fb3344781af3') in 0.022239 seconds 
+  Import took 0.026439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Road-01.png
+  artifactKey: Guid(fbffd0e9aadc0a94499450475002bc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Road-01.png using Guid(fbffd0e9aadc0a94499450475002bc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e013408a843ab4c8ed36b000068e9828') in 0.022003 seconds 
+  Import took 0.025791 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png
+  artifactKey: Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png using Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e38b9d786733a33587ba4af0bbf616c') in 0.031336 seconds 
+  Import took 0.042182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000366 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Classroom-01 (1).png
+  artifactKey: Guid(3b10377dab812dc4f9870caf964e6e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Classroom-01 (1).png using Guid(3b10377dab812dc4f9870caf964e6e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e90f7af909b2a0c529cde375e9437f6') in 0.021403 seconds 
+  Import took 0.024606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Maze-01.png
+  artifactKey: Guid(7e416ecf41d83e44faa175ad9af6dec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Maze-01.png using Guid(7e416ecf41d83e44faa175ad9af6dec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2325732a8324f773b42070856a6a5308') in 0.019571 seconds 
+  Import took 0.024001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Balls-01.png
+  artifactKey: Guid(c8e446a813b9dd44884d57aaa1727dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Balls-01.png using Guid(c8e446a813b9dd44884d57aaa1727dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29080cd935c0c785779bf2621cd95b9f') in 0.021081 seconds 
+  Import took 0.026100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/School playground-01 (2).png
+  artifactKey: Guid(57a8b114e27316143b8a44dc432a2c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/School playground-01 (2).png using Guid(57a8b114e27316143b8a44dc432a2c0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790de1f963b134fcec7cc3e9b1ac69ab') in 0.020069 seconds 
+  Import took 0.024397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Main menu-01 (1).png
+  artifactKey: Guid(477e36abf51511348a6b227e879876c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Main menu-01 (1).png using Guid(477e36abf51511348a6b227e879876c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4251e27e405da61bc0aa6ef3572522b6') in 0.024065 seconds 
+  Import took 0.029821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.906052 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Main menu 2-01.png
+  artifactKey: Guid(45a367a02eba40f4b98b96956d5072db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Main menu 2-01.png using Guid(45a367a02eba40f4b98b96956d5072db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4210bb9711a58e856492dfdb3a8095') in 0.029452 seconds 
+  Import took 0.033709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.400951 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/soha-02.png
+  artifactKey: Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/soha-02.png using Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e2b89f649e56d5ced6026c430e64df') in 0.023627 seconds 
+  Import took 0.027381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.830633 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/soha-02.png
+  artifactKey: Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/soha-02.png using Guid(d9dd3d62df378704b9b650daf6377ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25d11c72cb1e226771159bc5fddd271c') in 0.037696 seconds 
+  Import took 0.041429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 143.205972 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c0c706aa745df887020331651ebb15') in 0.015859 seconds 
+  Import took 0.019642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.436400 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670aa4bfc77c541e7558d8009e70ab8d') in 0.008721 seconds 
+  Import took 0.012750 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.391 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.6 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2039.
+Total: 3.204600 ms (FindLiveObjects: 0.177900 ms CreateObjectMapping: 0.051000 ms MarkObjects: 2.908800 ms  DeleteObjects: 0.065800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005206 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2042.
+Total: 2.902300 ms (FindLiveObjects: 0.180200 ms CreateObjectMapping: 0.054100 ms MarkObjects: 2.596600 ms  DeleteObjects: 0.070200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005964 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.262 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2045.
+Total: 2.238800 ms (FindLiveObjects: 0.169300 ms CreateObjectMapping: 0.059100 ms MarkObjects: 1.918300 ms  DeleteObjects: 0.091100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.112 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2048.
+Total: 2.748100 ms (FindLiveObjects: 0.188300 ms CreateObjectMapping: 0.050700 ms MarkObjects: 2.443300 ms  DeleteObjects: 0.064500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006443 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.299 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2051.
+Total: 2.815400 ms (FindLiveObjects: 0.164300 ms CreateObjectMapping: 0.059200 ms MarkObjects: 2.557700 ms  DeleteObjects: 0.032900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 45.1 MB.
+System memory in use after: 45.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2051.
+Total: 2.637400 ms (FindLiveObjects: 0.167300 ms CreateObjectMapping: 0.047200 ms MarkObjects: 2.404600 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1015.395870 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen.unity
+  artifactKey: Guid(1515c2dfb8d4fdc4e93127e31b54a734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen.unity using Guid(1515c2dfb8d4fdc4e93127e31b54a734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5719e3c4933d31a13649455ec66a472b') in 0.026668 seconds 
+  Import took 0.030983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.211945 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen2.unity
+  artifactKey: Guid(7173559be13a8444d9a9eda976c3badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen2.unity using Guid(7173559be13a8444d9a9eda976c3badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f629e4b0723c643ce81a06d5cfa6ea') in 0.008647 seconds 
+  Import took 0.019043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.073173 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--01.mp3
+  artifactKey: Guid(16c83d5755597694db34fedbf2925be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--01.mp3 using Guid(16c83d5755597694db34fedbf2925be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9ea02581f1eab99e5855899ce9694c') in 0.346660 seconds 
+  Import took 0.350869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--22.mp3
+  artifactKey: Guid(9fd14207224cb804286c78c21a596c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--22.mp3 using Guid(9fd14207224cb804286c78c21a596c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c176b6653ae56bf7770d9e08f3de17') in 0.017575 seconds 
+  Import took 0.020846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--23.mp3
+  artifactKey: Guid(35ea276bf82aa8240acbd0e19688a316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--23.mp3 using Guid(35ea276bf82aa8240acbd0e19688a316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '608666d6e49bc68148a02155daadbbaf') in 0.017214 seconds 
+  Import took 0.020437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--15.mp3
+  artifactKey: Guid(4da269b47b6fad2419b4025452e729ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--15.mp3 using Guid(4da269b47b6fad2419b4025452e729ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e0223c3569ae263b2afdd75140cd54') in 0.020941 seconds 
+  Import took 0.025819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--21.mp3
+  artifactKey: Guid(a9f11bb7d26794a4bb39e937eda6e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--21.mp3 using Guid(a9f11bb7d26794a4bb39e937eda6e764) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c719a6e4782390ca081bf3f5c6033c') in 0.020163 seconds 
+  Import took 0.024338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--41.mp3
+  artifactKey: Guid(bd06407d30e3a814bb3ca8a7cfc76f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--41.mp3 using Guid(bd06407d30e3a814bb3ca8a7cfc76f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ecf9e9674270f40aa99a424f676e646') in 0.018002 seconds 
+  Import took 0.021614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--40.mp3
+  artifactKey: Guid(e480d03664043e947974308ea974a506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--40.mp3 using Guid(e480d03664043e947974308ea974a506) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b39fb08b8490a2f7255f6a9c26320268') in 0.019689 seconds 
+  Import took 0.023455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--30.mp3
+  artifactKey: Guid(890a3933b2eee5848a832a50a72cd625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--30.mp3 using Guid(890a3933b2eee5848a832a50a72cd625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5954f4a0f39883c38970764951b544a1') in 0.018262 seconds 
+  Import took 0.021939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--02.mp3
+  artifactKey: Guid(84eed04e2f609fb4ab5a6bc63a1192fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--02.mp3 using Guid(84eed04e2f609fb4ab5a6bc63a1192fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df6fe342e15f5fd0224ee7abdc5bf05') in 0.018102 seconds 
+  Import took 0.022115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--09.mp3
+  artifactKey: Guid(230878ac18e0b5849a42eeacdb7302b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--09.mp3 using Guid(230878ac18e0b5849a42eeacdb7302b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d86811f09bba187679ba6c063ec993') in 0.018181 seconds 
+  Import took 0.022058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--06.mp3
+  artifactKey: Guid(36772b375f7056c4a99e798ea202bd67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--06.mp3 using Guid(36772b375f7056c4a99e798ea202bd67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8e6809a80772d9ec206f180647ee8b') in 0.019329 seconds 
+  Import took 0.029662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--10.mp3
+  artifactKey: Guid(bc9373e53c157304981fc3fe190b9028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--10.mp3 using Guid(bc9373e53c157304981fc3fe190b9028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdc480ae6dc815cca1240ccff66e8ea') in 0.018715 seconds 
+  Import took 0.023700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--36.mp3
+  artifactKey: Guid(a1059240a89db384792bb5ccfb10f09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--36.mp3 using Guid(a1059240a89db384792bb5ccfb10f09e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7196975102ec3f10a24f3c31c2341364') in 0.016844 seconds 
+  Import took 0.021076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--18.mp3
+  artifactKey: Guid(952c30ce8b821ee40b6ade4eef7763f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--18.mp3 using Guid(952c30ce8b821ee40b6ade4eef7763f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a9f4637158f337794ad7fa30ecb941') in 0.018372 seconds 
+  Import took 0.021958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--12.mp3
+  artifactKey: Guid(5eaa9c0896d4bfc439fa225793d1d097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--12.mp3 using Guid(5eaa9c0896d4bfc439fa225793d1d097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8bd3a6b894b1f693717c017d78c976c') in 0.016702 seconds 
+  Import took 0.020661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000368 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--37.mp3
+  artifactKey: Guid(b688bd6e77304f7409e55e98247b1e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--37.mp3 using Guid(b688bd6e77304f7409e55e98247b1e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27f5717297da9d15374fee4ab9e5e631') in 0.018288 seconds 
+  Import took 0.022100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--26.mp3
+  artifactKey: Guid(3544afdb81e9e4f4d9969b8c009b8281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--26.mp3 using Guid(3544afdb81e9e4f4d9969b8c009b8281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d9fa18f59c448e8456e0d01357abdc') in 0.016455 seconds 
+  Import took 0.027216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--08.mp3
+  artifactKey: Guid(cced97d2fbbc9e24aad37232896bce68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--08.mp3 using Guid(cced97d2fbbc9e24aad37232896bce68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b87e61de28a03e133f37faa4ea8845c') in 0.022267 seconds 
+  Import took 0.028123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--14.mp3
+  artifactKey: Guid(5a473c3f4d383c84b834ba75f27d5897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--14.mp3 using Guid(5a473c3f4d383c84b834ba75f27d5897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20631bf6aa0ee1cd95f9e37e65b71c70') in 0.017629 seconds 
+  Import took 0.023272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--03.mp3
+  artifactKey: Guid(0d8a111ab0c7a0a4e88f77b14a99cf88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--03.mp3 using Guid(0d8a111ab0c7a0a4e88f77b14a99cf88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2b319424cfd4586e00d466f2c320ecf') in 0.020051 seconds 
+  Import took 0.025833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--17.mp3
+  artifactKey: Guid(f25830d45579f364f9a36017db2f0121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--17.mp3 using Guid(f25830d45579f364f9a36017db2f0121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5145b64fa43e93f9f542f3ff6642828b') in 0.023198 seconds 
+  Import took 0.028812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--25.mp3
+  artifactKey: Guid(c4ddcc2d177d94f4bb0f761770d355f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--25.mp3 using Guid(c4ddcc2d177d94f4bb0f761770d355f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13355e14526c7b828a324060f89bf56d') in 0.021755 seconds 
+  Import took 0.025789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--11.mp3
+  artifactKey: Guid(012cbfc81ccb1dc4f8cbd5377f4343f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--11.mp3 using Guid(012cbfc81ccb1dc4f8cbd5377f4343f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c96bb544c0e2f38dd6d35e3ddc6cbe') in 0.022711 seconds 
+  Import took 0.027350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--20.mp3
+  artifactKey: Guid(71c60af14493b4343885e506ee2adb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--20.mp3 using Guid(71c60af14493b4343885e506ee2adb3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41431fac001b718d87de5661a4c08b03') in 0.016552 seconds 
+  Import took 0.019904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--32.mp3
+  artifactKey: Guid(347f3a5a2cb01204aaf937a59940c6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--32.mp3 using Guid(347f3a5a2cb01204aaf937a59940c6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5bc42155d2327849a0252b22903e6d0') in 0.021478 seconds 
+  Import took 0.030568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--04.mp3
+  artifactKey: Guid(b88bd1d235aec784ba84d1bd2a97b1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--04.mp3 using Guid(b88bd1d235aec784ba84d1bd2a97b1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07862f09c9359344d5cdae061b969625') in 0.020151 seconds 
+  Import took 0.026575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--39.mp3
+  artifactKey: Guid(5cfc31a0cb5a83246902bda48d76a0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--39.mp3 using Guid(5cfc31a0cb5a83246902bda48d76a0f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fada4c6201e8e23e382899d7434c16') in 0.017001 seconds 
+  Import took 0.021161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--31.mp3
+  artifactKey: Guid(2fc94fcd8b893454887c68c557bb411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--31.mp3 using Guid(2fc94fcd8b893454887c68c557bb411a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d1cb7812f43181b0362bbbf93b3f49') in 0.016190 seconds 
+  Import took 0.020393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--33.mp3
+  artifactKey: Guid(13aad415c8cafbc48a8ac188f446e796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--33.mp3 using Guid(13aad415c8cafbc48a8ac188f446e796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61fafbcb81ff8852a540ad230b646eb9') in 0.017584 seconds 
+  Import took 0.021229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--19.mp3
+  artifactKey: Guid(0d1aa7c282fb3c140af2360d1fa8567e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--19.mp3 using Guid(0d1aa7c282fb3c140af2360d1fa8567e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a8b43bc33f5e92ca081d8da78c7cea') in 0.015969 seconds 
+  Import took 0.019384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--43.mp3
+  artifactKey: Guid(4c8c034e51e1e9741ad3e4a46f172222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--43.mp3 using Guid(4c8c034e51e1e9741ad3e4a46f172222) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb2c7f16a78bd31e446c1ed1b6fc506') in 0.018179 seconds 
+  Import took 0.021736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--07.mp3
+  artifactKey: Guid(425124322748eb3499e1f5f2db35be69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--07.mp3 using Guid(425124322748eb3499e1f5f2db35be69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ed18abed58723d040c63bd57d1d910') in 0.017507 seconds 
+  Import took 0.027363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--35.mp3
+  artifactKey: Guid(3b22d014f10d9444d8486af93c9a3783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--35.mp3 using Guid(3b22d014f10d9444d8486af93c9a3783) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5037e81788b1e03b0f3a6bbb8bcd7b') in 0.015623 seconds 
+  Import took 0.018895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--34.mp3
+  artifactKey: Guid(406b4eaa371377d4d8a6e8100073e811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--34.mp3 using Guid(406b4eaa371377d4d8a6e8100073e811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a24013c808781b42896cf699e358d13') in 0.018348 seconds 
+  Import took 0.021494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--38.mp3
+  artifactKey: Guid(3cbd0061c9e08614c8848104ddfddb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--38.mp3 using Guid(3cbd0061c9e08614c8848104ddfddb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '571f0b56b139da4e13247fd81674d6f5') in 0.015470 seconds 
+  Import took 0.019390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--28.mp3
+  artifactKey: Guid(722e6b2544b97834c9484defd583d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--28.mp3 using Guid(722e6b2544b97834c9484defd583d502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65732306e5ee3698ef5ab5fb8e2382b9') in 0.014720 seconds 
+  Import took 0.018077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--42.mp3
+  artifactKey: Guid(cf53e7fe73257af47aaf93dec31a4d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--42.mp3 using Guid(cf53e7fe73257af47aaf93dec31a4d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16bfd8f37eb6fad6b52ab56da24aaa2b') in 0.015702 seconds 
+  Import took 0.019120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--29.mp3
+  artifactKey: Guid(8b54d22d0ea16584c88a3846af4d86e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--29.mp3 using Guid(8b54d22d0ea16584c88a3846af4d86e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad20743360c5c41d3cdb193e5cec3ce5') in 0.017535 seconds 
+  Import took 0.021024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--13.mp3
+  artifactKey: Guid(0dfe3167afb3de44d9de2054f42921c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--13.mp3 using Guid(0dfe3167afb3de44d9de2054f42921c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb759756eacf93b0de18d889b9c048c3') in 0.015911 seconds 
+  Import took 0.019330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--16.mp3
+  artifactKey: Guid(621f58fd8c768db4a8b49e9636487f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--16.mp3 using Guid(621f58fd8c768db4a8b49e9636487f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71856a7b5bc0313405f660a5965bac6f') in 0.016686 seconds 
+  Import took 0.020043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--27.mp3
+  artifactKey: Guid(4f09edbf7b824944b81ed7daed0f9c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--27.mp3 using Guid(4f09edbf7b824944b81ed7daed0f9c42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58b177aae568545fe808a4b409196681') in 0.016219 seconds 
+  Import took 0.019652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--05.mp3
+  artifactKey: Guid(c878ae29d9631c74daef9a1e3d7783c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--05.mp3 using Guid(c878ae29d9631c74daef9a1e3d7783c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae1c79ec568c8e9ba921054c467c489') in 0.015870 seconds 
+  Import took 0.020136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--44.mp3
+  artifactKey: Guid(09c7ed7930a444543b45ee8f0d341329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--44.mp3 using Guid(09c7ed7930a444543b45ee8f0d341329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '518e3ccf5b8c6424edfcd016ccc88712') in 0.016165 seconds 
+  Import took 0.019544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Main Game/Audio/MOVE Sounds/Move--24.mp3
+  artifactKey: Guid(5b595cd635c6a3f43af4186df1862f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Audio/MOVE Sounds/Move--24.mp3 using Guid(5b595cd635c6a3f43af4186df1862f4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8129f7de313eda4543a84742e55ae6f9') in 0.015591 seconds 
+  Import took 0.019131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.010260 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen3.unity
+  artifactKey: Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen3.unity using Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0c593118943aad1ee5e6015844e89b') in 0.010353 seconds 
+  Import took 0.014496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.055929 seconds.
+  path: Assets/Main Game/Scenes/MainScreen.unity
+  artifactKey: Guid(05fb5ed71079a7644adb63803b0f52b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/MainScreen.unity using Guid(05fb5ed71079a7644adb63803b0f52b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67e9f0fa6dafa3df1f9488a4aa40f05') in 0.008770 seconds 
+  Import took 0.012328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.182134 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen2.unity
+  artifactKey: Guid(7173559be13a8444d9a9eda976c3badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen2.unity using Guid(7173559be13a8444d9a9eda976c3badf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9836c0d514852a9cafb22454355f29') in 0.003959 seconds 
+  Import took 0.008369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.645653 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen3.unity
+  artifactKey: Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen3.unity using Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd56a1d8fa9206dec18e5ddb9c2cbc05') in 0.004326 seconds 
+  Import took 0.008871 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005325 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.205 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2061.
+Total: 3.334100 ms (FindLiveObjects: 0.174100 ms CreateObjectMapping: 0.046600 ms MarkObjects: 3.060500 ms  DeleteObjects: 0.051800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2064.
+Total: 3.101300 ms (FindLiveObjects: 0.166800 ms CreateObjectMapping: 0.069700 ms MarkObjects: 2.840700 ms  DeleteObjects: 0.022600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.177 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2067.
+Total: 2.813700 ms (FindLiveObjects: 0.285100 ms CreateObjectMapping: 0.054600 ms MarkObjects: 2.401100 ms  DeleteObjects: 0.072000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 268.495348 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png
+  artifactKey: Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png using Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0a5e2b26e838df6e376560af4c1ebd') in 0.053979 seconds 
+  Import took 0.058796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.041723 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png
+  artifactKey: Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite b&w.png using Guid(0a3e60335a0cb9a49ba76e1f3fd85807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67ba61e25f264a59bd7754166fddee0c') in 0.082772 seconds 
+  Import took 0.086806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.166886 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png
+  artifactKey: Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png using Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df90ef9f2d26f082f8cc29bf24247bfa') in 0.039803 seconds 
+  Import took 0.046403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.655299 seconds.
+  path: Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png
+  artifactKey: Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Sprites/Area 4/NewART/Map sprite-02.png using Guid(54d841c3340d1394fb7d3e7228790f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d653aa473ffe289c487cea16779f53') in 0.042846 seconds 
+  Import took 0.048621 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.196 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 2.984900 ms (FindLiveObjects: 0.391200 ms CreateObjectMapping: 0.105400 ms MarkObjects: 2.467700 ms  DeleteObjects: 0.019300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 480.473138 seconds.
+  path: Assets/Main Game/Scenes/DialogScreen3.unity
+  artifactKey: Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/DialogScreen3.unity using Guid(242a64b6c43dd2a4983aba109adfb2ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d63c5b22c1e24fc2f8348aa9f2aeeb') in 0.018207 seconds 
+  Import took 0.022715 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004854 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.425 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.9 MB.
+System memory in use after: 76.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2082.
+Total: 4.009200 ms (FindLiveObjects: 0.167300 ms CreateObjectMapping: 0.075600 ms MarkObjects: 3.738200 ms  DeleteObjects: 0.026200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 167.227345 seconds.
+  path: Assets/Main Game/Scenes/Area 1 scenes/Area 1 Challenge 2.unity
+  artifactKey: Guid(0449f0323c3ed0e4b97311662b632620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 1 scenes/Area 1 Challenge 2.unity using Guid(0449f0323c3ed0e4b97311662b632620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eecee1188345a9329899b31839be15e1') in 0.018815 seconds 
+  Import took 0.023363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.708999 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adcdb111e73f2c1e63557dd815ac2f0b') in 0.008847 seconds 
+  Import took 0.018912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.853250 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c7bc8c52d58aa95b3edaff53b7a554') in 0.009041 seconds 
+  Import took 0.019070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.686383 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c681181018ff58548d017699cce64c5') in 0.004581 seconds 
+  Import took 0.009876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.944279 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b03ebd99bc3a87a79a7aefa7ed685d5') in 0.004557 seconds 
+  Import took 0.014583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.679528 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 4.unity
+  artifactKey: Guid(2031c872e80242746916aadd337fb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 4.unity using Guid(2031c872e80242746916aadd337fb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c545f7737b882ad92f8843cd1d2a297') in 0.010280 seconds 
+  Import took 0.021236 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006372 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.151 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2085.
+Total: 3.054000 ms (FindLiveObjects: 0.174700 ms CreateObjectMapping: 0.048600 ms MarkObjects: 2.806600 ms  DeleteObjects: 0.022900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 292.310978 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 5.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 5.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec646c1da069f6e4ffc4daa670b0f30e') in 0.019890 seconds 
+  Import took 0.031635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.532711 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51008f9278d9dd17bcce5015c83cd42') in 0.004465 seconds 
+  Import took 0.012344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.939605 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 4.unity
+  artifactKey: Guid(2031c872e80242746916aadd337fb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 4.unity using Guid(2031c872e80242746916aadd337fb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3355ab643becdc8e54d7e32195a149f') in 0.003904 seconds 
+  Import took 0.014039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.445114 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c80f073e38a672eceaa1beacb35b0245') in 0.004528 seconds 
+  Import took 0.009670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 271.103623 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 1.unity
+  artifactKey: Guid(920a8f2089e0d2b4b8e7c5cea44abdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 1.unity using Guid(920a8f2089e0d2b4b8e7c5cea44abdab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '183f9a3b2a3a0d9c162c91666f1eeb51') in 0.011522 seconds 
+  Import took 0.015297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.762043 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '513080a8274f6eafb75a074c5072fd8b') in 0.008958 seconds 
+  Import took 0.012603 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004790 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1557 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 76.0 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2088.
+Total: 2.612000 ms (FindLiveObjects: 0.182300 ms CreateObjectMapping: 0.051700 ms MarkObjects: 2.311800 ms  DeleteObjects: 0.064900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 15.847406 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity
+  artifactKey: Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 2.unity using Guid(b9df27b8d7fc5624e8b517cd9386729b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e574a25b72753978ffd837149dda22') in 0.015086 seconds 
+  Import took 0.018903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.419987 seconds.
+  path: Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity
+  artifactKey: Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Area 4 scenes/Area 4 Challenge 3.unity using Guid(38c23b73bd5334563a9d3a9b76394ee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1db709792fce8d572d288f145f7c70a') in 0.004524 seconds 
+  Import took 0.014677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 663.924957 seconds.
+  path: Assets/Main Game/Scenes/Map.unity
+  artifactKey: Guid(326c89b7697152544a62ccd5e8c57395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Game/Scenes/Map.unity using Guid(326c89b7697152544a62ccd5e8c57395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b0329770404d16a06d29c7105ba4f1') in 0.017779 seconds 
+  Import took 0.022769 seconds .
+

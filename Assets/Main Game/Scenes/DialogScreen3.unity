@@ -183,7 +183,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b097a011de11545459a7e3d902eb14a1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dff54d38bea99e841a822bc4b5c4bdba, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1103,53 +1103,48 @@ MonoBehaviour:
       m_Calls: []
   lines:
   - speakerName: "\u0648\u0644\u064A\u062F"
-    line: "\u064A\u0627 \u0631\u0648\u0628\u0648 ... \u064A\u0627 \u0631\u0648\u0628\u0648..
-      \u0627\u0646\u062A \u0641\u064A\u0646 \u064A\u0627 \u0631\u0648\u0628\u0648"
-    emotion: 2
-    audioClip: {fileID: 0}
-  - speakerName: "\u0631\u0648\u0628\u0648"
-    line: "\u0623\u0647\u0644\u0627\u064B \u0648\u0633\u0647\u0644\u0627 \u064A\u0627\u0635\u062D\u0627\u0628\u0649
-      \u0639\u0627\u0645\u0644\u064A\u0646 \u0627\u064A\u0647 \u0648\u062D\u0634\u062A\u0648\u0646\u0649"
-    emotion: 0
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0633\u0645\u0627\u0621"
-    line: ..
-    emotion: 3
-    audioClip: {fileID: 0}
-  - speakerName: "\u0627\u0633\u0645\u0627\u0621"
-    line: "\u0647\u0648 \u0645\u064A\u0646 \u062F\u0647 ... \u0647\u0648 \u0647\u064A\u0623\u0630\u064A\u0646\u0627
-      ... \u0627\u0646\u062A \u0627\u0632\u0627\u0649 \u0628\u062A\u0643\u0644\u0645
-      \u0625\u0646\u0633\u0627\u0646 \u0623\u0644\u0649\r\n"
-    emotion: 3
-    audioClip: {fileID: 0}
-  - speakerName: "\u0648\u0644\u064A\u062F"
-    line: "\u0647\u0647\u0647\u0647\u0647 \u062F\u0647 \u0631\u0648\u0628\u0648 \u0627\u0646\u0633\u0627\u0646
-      \u0627\u0644\u0649 \u0628\u064A\u0633\u0627\u0639\u062F\u0646\u0627 \u0627\u0646\u0646\u0627
-      \u0646\u062D\u0627\u0648\u0644 \u0646\u0634\u0648\u0641 \u0637\u0631\u0642
-      \u0645\u062E\u062A\u0644\u0641\u0629 \u0646\u0639\u0631\u0641 \u0646\u062A\u0639\u0644\u0645
-      \u0628\u064A\u0647\u0627"
+    line: "\u0627\u0647\u062F\u0649 \u0628\u0633 \u062F\u0647 \u0635\u0627\u062D\u0628\u0649
+      \u0631\u0648\u0628\u0648"
     emotion: 4
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 5eaa9c0896d4bfc439fa225793d1d097, type: 3}
+  - speakerName: "\u0633\u0647\u064A"
+    line: "\u0635\u0627\u062D\u0628\u0643 \u0627\u0632\u0627\u0649"
+    emotion: 3
+    audioClip: {fileID: 8300000, guid: 0dfe3167afb3de44d9de2054f42921c1, type: 3}
   - speakerName: "\u0648\u0644\u064A\u062F"
-    line: "\u064A\u0627 \u0631\u0648\u0628\u0648 \u0623\u0633\u0645\u0627\u0621 \u0639\u0646\u062F\u0647\u0627
-      \u0645\u0634\u0643\u0644\u0647 \u0627\u0646\u0647\u0627 \u0628\u062A\u0646\u0633\u0649
-      \u0639\u0644\u0649 \u0637\u0648\u0644 \u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0647
-      \u0648\u062F\u0647 \u0639\u0645\u0644\u0647\u0627 \u0645\u0634\u0643\u0644\u0647
-      \u0641\u0649 \u0627\u0644\u0645\u062F\u0631\u0633\u0629"
-    emotion: 0
-    audioClip: {fileID: 0}
+    line: "\u0633\u0644\u0645\u0649 \u0639\u0644\u064A\u0647 \u0628\u0633\r\n"
+    emotion: 4
+    audioClip: {fileID: 8300000, guid: 5a473c3f4d383c84b834ba75f27d5897, type: 3}
+  - speakerName: "\u0633\u0647\u064A"
+    line: "\u0627\u0647\u0644\u0627 \u064A\u0627 \u0631\u0648\u0628\u0648\r\n"
+    emotion: 3
+    audioClip: {fileID: 8300000, guid: 4da269b47b6fad2419b4025452e729ce, type: 3}
   - speakerName: "\u0631\u0648\u0628\u0648"
-    line: "\u0645\u062A\u0642\u0644\u0642\u064A\u0634 \u064A\u0627 \u0623\u0633\u0645\u0627\u0621
-      \u0647\u062D\u0627\u0648\u0644 \u0627\u0633\u0627\u0639\u062F\u0643 \u062A\u0639\u0627\u0644\u064A
-      \u0646\u0631\u0648\u062D \u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0630\u0627\u0643\u0631\u0629"
+    line: "\u0627\u0647\u0644\u0627 \u0633\u0647\u0649 \u0641\u0627\u0647\u0645\u0646\u064A\u0649
+      \u0645\u0627\u0644\u0643 \r\n"
     emotion: 0
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 621f58fd8c768db4a8b49e9636487f1b, type: 3}
+  - speakerName: "\u0633\u0647\u064A"
+    line: "\u0627\u0646\u0627 \u0628\u062D\u0628 \u0627\u0644\u062D\u0631\u0643\u0629
+      \u0627\u0644\u0643\u062A\u064A\u0631 \u0627\u0648\u0648\u0649 \u0628\u0633
+      \u0633\u0627\u0639\u0627\u062A \u0627\u0644\u0646\u0627\u0633 \u0628\u062A\u0636\u0627\u064A\u0642
+      \u0639\u0634\u0627\u0646 \u0645\u0634 \u0628\u0639\u0631\u0641 \u0627\u062A\u062D\u0643\u0645
+      \u0641\u0649 \u062D\u0631\u0643\u062A\u0649 \u0643\u0648\u064A\u0633 \u060C
+      \u0648 \u0639\u0634\u0627\u0646 \u0643\u062F\u0647 \u062C\u0627\u064A\u0644\u0643\r\n"
+    emotion: 3
+    audioClip: {fileID: 8300000, guid: f25830d45579f364f9a36017db2f0121, type: 3}
   - speakerName: "\u0631\u0648\u0628\u0648"
-    line: "\u0645\u062A\u0642\u0644\u0642\u064A\u0634 \u064A\u0627 \u0623\u0633\u0645\u0627\u0621
-      \u0647\u062D\u0627\u0648\u0644 \u0627\u0633\u0627\u0639\u062F\u0643 \u062A\u0639\u0627\u0644\u064A
-      \u0646\u0631\u0648\u062D \u0645\u062F\u064A\u0646\u0629 \u0627\u0644\u0630\u0627\u0643\u0631\u0629"
+    line: "\u0627\u0647 \u0641\u0645\u0647\u062A ... \u064A\u0639\u0646\u0649 \u0628\u062A\u062A\u062D\u0631\u0643\u0649
+      \u0628\u0633 \u0628\u0632\u064A\u0627\u062F\u0629 \u064A\u0644\u0627 \u0628\u064A\u0646\u0627
+      \u0647\u0646\u062D\u0644\u0647\u0627 \u0633\u0648\u0627 \u0628\u0634\u0648\u064A\u0647
+      \u0627\u0644\u0639\u0627\u0628 \u0647\u0646\u062A\u0628\u0633\u0637 \u0641\u064A\u0647\u0627
+      \u0627\u0648\u0649\r\n"
     emotion: 0
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 952c30ce8b821ee40b6ade4eef7763f3, type: 3}
+  - speakerName: "\u0633\u0647\u064A"
+    line: "\u064A\u0644\u0627 \u0628\u064A\u0646\u0627 \r\n"
+    emotion: 0
+    audioClip: {fileID: 8300000, guid: 0d1aa7c282fb3c140af2360d1fa8567e, type: 3}
   characterNameText: {fileID: 1928752992}
 --- !u!82 &1778184256
 AudioSource:
