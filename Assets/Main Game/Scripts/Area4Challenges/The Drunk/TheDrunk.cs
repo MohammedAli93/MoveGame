@@ -44,7 +44,11 @@ public class TheDrunk : MonoBehaviour
             _rigidbody.angularVelocity -= _velocityAcceleration;
 
         if (Vector3.Dot(transform.up, Vector3.up) < 0.01f)
+        {
+            _rigidbody.isKinematic = true;
+            _rigidbody.angularVelocity = 0;
             _onLosing.Invoke();
+        }
 
         DisplayTimer();
     }
@@ -52,6 +56,9 @@ public class TheDrunk : MonoBehaviour
     public void Reset()
     {
         transform.localEulerAngles = Vector3.zero;
+
+        _rigidbody.isKinematic = false;
+
         Direction _fallingDirection = (Direction)Random.Range(0, 2);
 
         if(_fallingDirection == Direction.left)

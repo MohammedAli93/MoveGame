@@ -40,9 +40,6 @@ public class ClawCrane : MonoBehaviour
     private Transform rightClaw;
 
     [SerializeField]
-    private Transform optionsRoot;
-
-    [SerializeField]
     private float clawGrabAngle = 30.0f;
 
     [SerializeField]
@@ -122,7 +119,6 @@ public class ClawCrane : MonoBehaviour
     private bool _collectedOneBall = false; 
 
     private List<GameObject> _initBalls = new List<GameObject>();
-    private List<Transform> _initBallsTransform = new List<Transform>();
 
     private Hand _machinehand;
     bool _backtoPosition = false;
@@ -160,7 +156,6 @@ public class ClawCrane : MonoBehaviour
                 if (_ballsParent.GetChild(i).gameObject.activeSelf)
                 {
                     _initBalls.Add(_ballsParent.GetChild(i).gameObject);
-                    _initBallsTransform.Add(_ballsParent.GetChild(i));
                 }
             }
         }
@@ -343,9 +338,12 @@ public class ClawCrane : MonoBehaviour
         {
             _onCollectingBall.Invoke();
             _collectedOneBall = true;
+        }
 
-            bool _winner = true;
-            for (int i = 0; i < _initBalls.Count; i++)
+        bool _winner = true;
+        for (int i = 0; i < _initBalls.Count; i++)
+        {
+            if (_initBalls[i].gameObject.activeSelf)
             {
                 if (_initBalls[i].GetComponent<Ball>().Color != _TargetColor)
                 {
@@ -353,10 +351,10 @@ public class ClawCrane : MonoBehaviour
                     break;
                 }
             }
-
-            if (_winner)
-                _onWinning.Invoke();
         }
+
+        if (_winner)
+            _onWinning.Invoke();
     }
 
     public void ResetMachine()
