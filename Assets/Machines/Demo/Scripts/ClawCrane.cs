@@ -261,7 +261,7 @@ public class ClawCrane : MonoBehaviour
 
             yield return null;
         }
-
+        
 
         yield return new WaitForSeconds(grabStopDuration);
 
