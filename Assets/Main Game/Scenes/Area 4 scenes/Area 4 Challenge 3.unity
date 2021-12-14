@@ -486,7 +486,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -76.99997, y: -137}
+  m_AnchoredPosition: {x: -77, y: -137}
   m_SizeDelta: {x: 702.9821, y: 458.2136}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &142775443
@@ -3096,7 +3096,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 3
 --- !u!58 &1794837526
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3584,7 +3584,7 @@ PrefabInstance:
     - target: {fileID: 1295420003990667427, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -35.365936
+      value: -35.365967
       objectReference: {fileID: 0}
     - target: {fileID: 2966350766464115568, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
