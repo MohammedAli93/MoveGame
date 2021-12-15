@@ -1,8 +1,10 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using TMPro;
+using Random = UnityEngine.Random;
 
 public class TheDrunk : MonoBehaviour
 {
@@ -28,6 +30,14 @@ public class TheDrunk : MonoBehaviour
     private bool _startGame;
     private float _roundTime;
 
+    private Vector3 _startPosition;
+
+    private void Start()
+    {
+        _startPosition = transform.position;
+    }
+
+
     void Update()
     {
         if (!_startGame)
@@ -47,6 +57,8 @@ public class TheDrunk : MonoBehaviour
         {
             _rigidbody.isKinematic = true;
             _rigidbody.angularVelocity = 0;
+            
+            _startGame = false;
             _onLosing.Invoke();
         }
 
@@ -83,5 +95,15 @@ public class TheDrunk : MonoBehaviour
         float seconds = Mathf.FloorToInt(_roundTime % 60);
 
         _timerText.text = minutes + ":" + seconds;
+    }
+
+    public void DisableRB()
+    {
+        _startGame = false;
+        //_rigidbody.isKinematic = true;
+        //_rigidbody.angularVelocity = 0;
+        Destroy(_rigidbody);
+        transform.rotation = Quaternion.identity;
+        transform.position = _startPosition;
     }
 }

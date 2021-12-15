@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class TheDrunkChallenge : Challenge
 {
@@ -14,6 +15,8 @@ public class TheDrunkChallenge : Challenge
     [SerializeField]
     [Tooltip("In Minutes")]
     private float _roundAdditiveTime;
+
+    [SerializeField] private UnityEvent _onRoundEnded;
 
     private int _currentRound;
     private float _currentRoundTime;
@@ -42,6 +45,9 @@ public class TheDrunkChallenge : Challenge
         if (_currentRound == _roundsNumber)
             FinishChallengeWithDelay();
         else
+        {
+            _onRoundEnded.Invoke();
             StartRound();
+        }
     }
 }
