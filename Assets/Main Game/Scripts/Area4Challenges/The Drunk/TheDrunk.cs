@@ -27,12 +27,14 @@ public class TheDrunk : MonoBehaviour
     [SerializeField]
     private UnityEvent _onLosing;
 
+    [SerializeField] private Animator _animator;
+
     private bool _startGame;
     private float _roundTime;
 
     private Vector3 _startPosition;
 
-    private void Start()
+    private void Awake()
     {
         _startPosition = transform.position;
     }
@@ -57,7 +59,7 @@ public class TheDrunk : MonoBehaviour
         {
             _rigidbody.isKinematic = true;
             _rigidbody.angularVelocity = 0;
-            
+            transform.position = _startPosition;
             _startGame = false;
             _onLosing.Invoke();
         }
@@ -79,6 +81,11 @@ public class TheDrunk : MonoBehaviour
             _rigidbody.angularVelocity = -_initVelocity;
 
         _startGame = false;
+
+        _animator.enabled = true;
+        
+        transform.rotation = Quaternion.identity;
+        
     }
 
     public void StartGame(float roundTime)
