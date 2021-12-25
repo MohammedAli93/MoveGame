@@ -76,12 +76,6 @@ public class ClawCrane : MonoBehaviour
     private ClawCraneButton moveDownButton;
 
     [SerializeField]
-    private Image rewardShadow;
-
-    [SerializeField]
-    private AnimationCurve shadowTransparencyOverRatio;
-
-    [SerializeField]
     private float clawRotationDuration = 0.1f;
 
     [SerializeField]
@@ -169,7 +163,6 @@ public class ClawCrane : MonoBehaviour
         _numberOfLosingBalls = _maxNumberToLose;
         _collectedOneBall = false;
 
-        HideShadow();
     }
 
     private void OnDisable()
@@ -233,17 +226,8 @@ public class ClawCrane : MonoBehaviour
         }
     }
 
-    private void HideShadow()
-    {
-        var shadowColor = rewardShadow.color;
-        shadowColor.a = 0.0f;
-        rewardShadow.color = shadowColor;
-    }
-
     private IEnumerator Grab()
     {
-        HideShadow();
-
         var ratio = 0.0f;
         var initialPosition = clawExtention.localPosition;
         var targetPosition = clawExtention.localPosition + Vector3.down * grabShift;
@@ -291,6 +275,9 @@ public class ClawCrane : MonoBehaviour
 
         yield return StartCoroutine(RotateClaws(-clawGrabAngle));
 
+        print("2");
+
+
         if (_machinehand.LastInteractable)
         {
             var initialRewardPosition = _machinehand.LastInteractable.transform.position;
@@ -305,23 +292,17 @@ public class ClawCrane : MonoBehaviour
                 _machinehand.LastInteractable.GetComponent<Rigidbody2D>().isKinematic = false;
                 _machinehand.LastInteractable.transform.position = Vector3.Lerp(initialRewardPosition, rewardTargetPosition.position, rewardRatio);
 
-                var shadowAlpha = shadowTransparencyOverRatio.Evaluate(rewardRatio);
-
-                var shadowColor = rewardShadow.color;
-                shadowColor.a = shadowAlpha;
-                rewardShadow.color = shadowColor;
-
                 yield return null;
             }
 
-
-            movingBack = false;
-
-            grabCoroutine = null;
-
             CheckBalls(_machinehand.LastInteractable.GetComponent<Ball>());
         }
-       
+
+
+        movingBack = false;
+
+        grabCoroutine = null;
+
     }
 
     private void CheckBalls(Ball collectedBall)
@@ -364,8 +345,6 @@ public class ClawCrane : MonoBehaviour
 
         pressTutorialGroup.alpha = 0.0f;
         pressTutorialGroup.blocksRaycasts = false;
-
-        HideShadow();
 
         _numberOfLosingBalls = _maxNumberToLose;
         _collectedOneBall = false;
