@@ -53,7 +53,7 @@ public class TheDrunk : MonoBehaviour
 
         _startGame = true;
 
-        Direction _fallingDirection = Direction.left;// (Direction)Random.Range(0, 2);
+        Direction _fallingDirection = (Direction)Random.Range(0, 2);
 
         if (_fallingDirection == Direction.left)
         {
