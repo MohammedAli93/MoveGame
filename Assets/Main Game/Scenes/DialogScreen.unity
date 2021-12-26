@@ -1103,7 +1103,7 @@ MonoBehaviour:
       m_Calls: []
   lines:
   - speakerName: "\u0633\u0647\u064A"
-    line: .
+    line: ....
     emotion: 1
     audioClip: {fileID: 0}
   characterNameText: {fileID: 1928752992}
