@@ -735,12 +735,12 @@ MonoBehaviour:
   challengesContainers:
   - {fileID: 1411484369}
   currentScore: 0
-  maxScore: 4
+  maxScore: 10
   progress: 0
   background: {fileID: 574223505}
   dimAlphaValue: 0.4
-  PlayerPrefStringScore: 4Score
-  PlayerPrefStringCelebrate: 4Celebrate
+  PlayerPrefStringScore: 5Score
+  PlayerPrefStringCelebrate: 5Celebrate
 --- !u!82 &234283536
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2012,7 +2012,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1401059426986908072, guid: fc17fd13b5619b64ab01178b077fe79f,
+  m_Sprite: {fileID: 6163980757617111501, guid: 359e7b9702bd1cd459514c9ebcd51916,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -2329,8 +2329,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279347442
-  m_fontColor: {r: 0.9490197, g: 0.65882355, b: 0.06666667, a: 1}
+    rgba: 4282835697
+  m_fontColor: {r: 0.9450981, g: 0.8862746, b: 0.27450982, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3557,18 +3557,120 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< Updated upstream
   timeBeforeChallengeEnd: 0
   timeBeforeChallengeFail: 0
   OnChallengeAboutToFinish:
     m_PersistentCalls:
       m_Calls: []
+=======
+  timeBeforeChallengeEnd: 2
+  timeBeforeChallengeFail: 0
+  OnChallengeAboutToFinish:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1794837528}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 234283536}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: PlayOneShot
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 8300000, guid: 5e16a869ec6a48143b02e2bc161699b3,
+            type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 528601153}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 234283535}
+        m_TargetAssemblyTypeName: ChallengeManager, Assembly-CSharp
+        m_MethodName: IncrementScore
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+      - m_Target: {fileID: 1794837524}
+        m_TargetAssemblyTypeName: TheDrunk, Assembly-CSharp
+        m_MethodName: DisableRB
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+>>>>>>> Stashed changes
   OnChallengeAboutToFail:
     m_PersistentCalls:
       m_Calls: []
   _player: {fileID: 1794837524}
   _roundsNumber: 3
+<<<<<<< Updated upstream
   _roundTime: 0.5
   _roundAdditiveTime: 0.5
+=======
+  _roundTime: 0.1
+  _roundAdditiveTime: 0.05
+  _onRoundEnded:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 234283536}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: PlayOneShot
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 8300000, guid: 5e16a869ec6a48143b02e2bc161699b3,
+            type: 3}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.AudioClip, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 234283535}
+        m_TargetAssemblyTypeName: ChallengeManager, Assembly-CSharp
+        m_MethodName: IncrementScore
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 5
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+>>>>>>> Stashed changes
 --- !u!1001 &2966350767347025974
 PrefabInstance:
   m_ObjectHideFlags: 0

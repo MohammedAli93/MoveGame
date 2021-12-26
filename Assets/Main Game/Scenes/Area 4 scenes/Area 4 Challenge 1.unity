@@ -735,7 +735,7 @@ MonoBehaviour:
   challengesContainers:
   - {fileID: 1411484369}
   currentScore: 0
-  maxScore: 4
+  maxScore: 5
   progress: 0
   background: {fileID: 574223505}
   dimAlphaValue: 0.4
@@ -1554,8 +1554,8 @@ MonoBehaviour:
     emotion: 0
     audioClip: {fileID: 8300000, guid: 9fd14207224cb804286c78c21a596c06, type: 3}
   - speakerName: "\u0648\u0644\u064A\u062F"
-    line: " \u0648\u0637\u0628\u0639\u0627 \u062F\u0647 \u062F\u0627\u0626\u0645\u0627\u064B
-      \u0628\u064A\u0639\u0645\u0644\u0643 \u0645\u0634\u0627\u0643\u0644"
+    line: " \u0648\u0637\u0628\u0639\u0627 \u062F\u0647 \u0628\u064A\u0639\u0645\u0644\u0643
+      \u0645\u0634\u0627\u0643\u0644"
     emotion: 4
     audioClip: {fileID: 8300000, guid: 35ea276bf82aa8240acbd0e19688a316, type: 3}
   - speakerName: "\u0633\u0647\u064A"
@@ -1990,7 +1990,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1401059426986908072, guid: fc17fd13b5619b64ab01178b077fe79f,
+  m_Sprite: {fileID: 6163980757617111501, guid: 359e7b9702bd1cd459514c9ebcd51916,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -2588,8 +2588,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279347442
-  m_fontColor: {r: 0.9490197, g: 0.65882355, b: 0.06666667, a: 1}
+    rgba: 4279882989
+  m_fontColor: {r: 0.9294118, g: 0.8313726, b: 0.098039225, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4475,7 +4475,16 @@ PrefabInstance:
     - target: {fileID: 1295420003990667427, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
       propertyPath: m_AnchoredPosition.x
+<<<<<<< Updated upstream
       value: -35.36606
+=======
+      value: -35.365936
+      objectReference: {fileID: 0}
+    - target: {fileID: 1295420003990667427, guid: f5849c94f5cf22d4482f9d1bc617d957,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -21.512573
+>>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 2966350766387108464, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
