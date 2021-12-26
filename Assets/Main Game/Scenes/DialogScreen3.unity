@@ -760,7 +760,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1093,7 +1093,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 4
+          m_IntArgument: 3
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1120,8 +1120,8 @@ MonoBehaviour:
     emotion: 3
     audioClip: {fileID: 8300000, guid: 4da269b47b6fad2419b4025452e729ce, type: 3}
   - speakerName: "\u0631\u0648\u0628\u0648"
-    line: "\u0627\u0647\u0644\u0627 \u0633\u0647\u0649 \u0641\u0627\u0647\u0645\u0646\u064A\u0649
-      \u0645\u0627\u0644\u0643 \r\n"
+    line: "\u0627\u0647\u0644\u0627 \u0633\u0647\u0649 \u0641\u0627\u0647\u0645\u064A\u0646\u064A
+      \u0645\u0627\u0644\u0643"
     emotion: 0
     audioClip: {fileID: 8300000, guid: 621f58fd8c768db4a8b49e9636487f1b, type: 3}
   - speakerName: "\u0633\u0647\u064A"
@@ -1130,7 +1130,7 @@ MonoBehaviour:
       \u0633\u0627\u0639\u0627\u062A \u0627\u0644\u0646\u0627\u0633 \u0628\u062A\u0636\u0627\u064A\u0642
       \u0639\u0634\u0627\u0646 \u0645\u0634 \u0628\u0639\u0631\u0641 \u0627\u062A\u062D\u0643\u0645
       \u0641\u0649 \u062D\u0631\u0643\u062A\u0649 \u0643\u0648\u064A\u0633 \u060C
-      \u0648 \u0639\u0634\u0627\u0646 \u0643\u062F\u0647 \u062C\u0627\u064A\u0644\u0643\r\n"
+      \u0648 \u0639\u0634\u0627\u0646 \u0643\u062F\u0647 \u062C\u0627\u064A\u0627\u0644\u0643 "
     emotion: 3
     audioClip: {fileID: 8300000, guid: f25830d45579f364f9a36017db2f0121, type: 3}
   - speakerName: "\u0631\u0648\u0628\u0648"
