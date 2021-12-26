@@ -27,11 +27,13 @@ public class ChallengeManager : MonoBehaviour
     [SerializeField] float dimAlphaValue = 0.4f;
 
     [Header("")]
-    [SerializeField] string PlayerPrefStringScore = "3Score";
+    [SerializeField] public string PlayerPrefStringScore = "3Score";
     [SerializeField] string PlayerPrefStringCelebrate = "3Celebrate";
 
     private void Start()
     {
+        PlayerPrefs.SetInt("Entered" + SceneManager.GetActiveScene().buildIndex, 1);
+
         _challenges = new List<Challenge>();
 
         foreach (var item in challengesContainers)
