@@ -26,6 +26,6 @@ public class InGameUI : MonoBehaviour
 
     private void Update()
     {
-        score.text = PlayerPrefs.GetInt(MainComponentsReferenceManager.Instance.ChallengeManager.PlayerPrefStringScore, 0).ToString("00");
+        score.text = MainComponentsReferenceManager.Instance.ChallengeManager.currentScore.ToString("00");
     }
 }

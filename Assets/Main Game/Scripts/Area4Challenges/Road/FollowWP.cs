@@ -64,6 +64,8 @@ namespace Road
                 {
                     _currentWP++;
                 }
+                if(!_animator)
+                    _animator = GetComponent<Animator>();
                 _animator.SetFloat("Horizontal", direction.x);
                 _animator.SetFloat("Vertical", direction.y);
                 _animator.SetBool("Moving",_speed>0.1f);

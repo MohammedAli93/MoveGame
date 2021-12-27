@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using Random = UnityEngine.Random;
 
 namespace Road
@@ -20,6 +21,7 @@ namespace Road
         [SerializeField] private FollowWP _player;
         [SerializeField] private SignalUI _signalUI;
         [SerializeField] private Range _timeGap;
+        [SerializeField] private UnityEvent _onCorrectAnswer;
 
         private bool _firstTime = true;
         
@@ -43,6 +45,7 @@ namespace Road
             if (_currentSignal == Signal.Circle)
             {
                 _player.Walk();
+                _onCorrectAnswer.Invoke();
                 Invoke("ShowSignal",_timeGap.Value);
             }
             else
@@ -57,6 +60,7 @@ namespace Road
             if (_currentSignal == Signal.Square)
             {
                 _player.Stop();
+                _onCorrectAnswer.Invoke();
                 Invoke("ShowSignal",_timeGap.Value);
             }
             else
@@ -71,6 +75,7 @@ namespace Road
             if (_currentSignal == Signal.Triangle)
             {
                 _player.Run();
+                _onCorrectAnswer.Invoke();
                 Invoke("ShowSignal",_timeGap.Value);
             }
             else

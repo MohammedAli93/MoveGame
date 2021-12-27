@@ -12,6 +12,7 @@ namespace Road
         [SerializeField] private Sprite _circle;
         [SerializeField] private Sprite _square;
         [SerializeField] private Sprite _triangle;
+        [SerializeField] private Button[] _buttons;
         
         public void ShowSignal(RoadChallenge.Signal type)
         {
@@ -31,6 +32,17 @@ namespace Road
             }
             
             gameObject.SetActive(true);
+            EnableButtons(true);
+        }
+
+
+        public void EnableButtons(bool enable)
+        {
+            for (int i = 0; i < _buttons.Length; i++)
+            {
+
+                _buttons[i].interactable = enable;
+            }
         }
     }
 }

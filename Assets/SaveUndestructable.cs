@@ -2,12 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class SaveUndestructable : MonoBehaviour
 {
     public static SaveUndestructable instance;
-    [SerializeField] GameObject continueButton;
+    [SerializeField] GameObject ContinueMenu;
 
     private void Start()
     {
@@ -26,24 +25,16 @@ public class SaveUndestructable : MonoBehaviour
             PlayerPrefs.SetInt("just started the game", 0);
             if (!string.IsNullOrEmpty(PlayerPrefs.GetString("Last Saved", "")))
             {
-                continueButton.GetComponent<Button>().interactable = true;
-            }
-            else
-            {
-                continueButton.GetComponent<Button>().interactable = false;
+                ContinueMenu.SetActive(true);
             }
         }
     }
 
     public void LoadGame()
     {
+        ContinueMenu.SetActive(false);
         string[] splits = PlayerPrefs.GetString("Last Saved", "").Split('-');
         PlayerPrefs.SetInt("Sent From Start Screen", 1);
         SceneManager.LoadScene(int.Parse(splits[0]));
-    }
-
-    public void NewGame()
-    {
-        PlayerPrefs.DeleteAll();
     }
 }
