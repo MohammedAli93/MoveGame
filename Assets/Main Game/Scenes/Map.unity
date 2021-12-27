@@ -3574,7 +3574,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1352419811
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4990,4 +4990,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1b216ec220652b54097ac052d2aa26e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  continueButton: {fileID: 0}
+  ContinueMenu: {fileID: 0}

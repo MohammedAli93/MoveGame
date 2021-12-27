@@ -486,7 +486,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -76.99994, y: -137}
+  m_AnchoredPosition: {x: -76.99997, y: -137}
   m_SizeDelta: {x: 702.9821, y: 458.2136}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &142775443
@@ -735,12 +735,12 @@ MonoBehaviour:
   challengesContainers:
   - {fileID: 1411484369}
   currentScore: 0
-  maxScore: 4
+  maxScore: 10
   progress: 0
   background: {fileID: 574223505}
   dimAlphaValue: 0.4
-  PlayerPrefStringScore: 4Score
-  PlayerPrefStringCelebrate: 4Celebrate
+  PlayerPrefStringScore: 5Score
+  PlayerPrefStringCelebrate: 5Celebrate
 --- !u!82 &234283536
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1703,7 +1703,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &711985858
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2148,7 +2148,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1401059426986908072, guid: fc17fd13b5619b64ab01178b077fe79f,
+  m_Sprite: {fileID: 6163980757617111501, guid: 359e7b9702bd1cd459514c9ebcd51916,
     type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -2465,8 +2465,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4279347442
-  m_fontColor: {r: 0.9490197, g: 0.65882355, b: 0.06666667, a: 1}
+    rgba: 4282835441
+  m_fontColor: {r: 0.9450981, g: 0.882353, b: 0.27450982, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3898,7 +3898,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2130696074
 Transform:
   m_ObjectHideFlags: 0
@@ -3996,7 +3996,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 1
@@ -4068,7 +4068,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
+          m_IntArgument: 5
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -4088,7 +4088,7 @@ PrefabInstance:
     - target: {fileID: 1295420003990667427, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -35.365967
+      value: -35.365936
       objectReference: {fileID: 0}
     - target: {fileID: 2966350766464115568, guid: f5849c94f5cf22d4482f9d1bc617d957,
         type: 3}
